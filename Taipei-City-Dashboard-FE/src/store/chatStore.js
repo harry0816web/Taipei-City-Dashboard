@@ -17,7 +17,7 @@ export const useChatStore = defineStore('chat', () => {
 	const recommendComponents = ref(null)
 	// 當使用者啟動減碳計算機並等待輸入數據時，設為 true
 	const awaitingCarbonInput = ref(false)
-
+	const awaitingEnergySubsidyInput = ref(false)
   	// 從 sessionStorage 讀取
   	const savedChatData = JSON.parse(sessionStorage.getItem('chatData')) || [];
 
@@ -42,7 +42,9 @@ export const useChatStore = defineStore('chat', () => {
   	const isCarbonRelatedInput = (content) => {
 		return /走路|步行|大眾運輸|公車|捷運|火車|蔬食|素食|省電|省水|自備餐具|減碳|碳排|碳|樹|大安森林公園/i.test(content);
 	};
-
+	const isEnergySubsidyRelated = (content) => {
+		return /補助|節能|省電|申請|能源|節水|冷氣|冷房|太陽能|綠能|補助金|申請資格|條件|經費|額度|流程|步驟|辦理|核定|審核|補助對象/i.test(content);
+	};
 	const addQueryData = async (newChatData) => {
 		// 如果正在等待使用者提供減碳數據，先判斷是否真的跟減碳有關
 		if (awaitingCarbonInput.value) {
@@ -63,7 +65,7 @@ export const useChatStore = defineStore('chat', () => {
 					{ role: 'user', content: `你是一個減碳計算助手，請只根據使用者輸入與以下參考資料進行計算。
 
 參考資料：
-- 1 棵成年樹 / 年 = 12 kg
+- 1 棵成年樹 / 天 = 0.02 kg
 - 1 座大安森林公園 / 日 = 1052 kg
 - 1 座大安森林公園 / 年 = 384000 kg
 
@@ -76,7 +78,7 @@ export const useChatStore = defineStore('chat', () => {
 1. 每項減碳結果，格式為「項目：數量 -> 減碳 X kg」
 2. 總計，格式為「總計：X kg」
 3. 根據總減碳量選擇最合適的比喻：
-   - 日常小量減碳，使用「X / 12 = 幾棵樹 / 年」，回覆例句如「你今天節省了 3 kg 碳排，這相當於 0.25 棵樹一整年的吸碳量喔！」
+   - 日常小量減碳，使用「X / 0.02 = 幾棵樹 / 天」，無條件進位到整數，回覆例句如「你今天節省了 1 kg 碳排，這相當於 50 棵樹一整天的吸碳量喔！」
    - 個人年度累積，使用「X / 1052 = 大安森林公園工作天數」，回覆可換算成小時，例句如「你這一年共減碳 500 kg，相當於大安森林公園幫地球工作了 11.4 小時！」
    - 企業或大型活動，使用「X / 384000 = 幾座大安森林公園 / 年」，回覆例句如「本次活動減碳 38400 kg，相當於 0.1 座大安森林公園一年的吸碳量！」
 4. 回覆語氣要活潑、鼓勵、繁體中文，並在最後再補一句自然的總結。
@@ -123,7 +125,55 @@ export const useChatStore = defineStore('chat', () => {
 			awaitingCarbonInput.value = true;
 			return;
 		}
+		// 如果正在等待使用者提供能源補助相關問題
+		if (awaitingEnergySubsidyInput.value) {
+			chatData.value.push({ id: chatData.value.length + 1, isDefault: false, ...newChatData });
 
+			if (!isEnergySubsidyRelated(newChatData.content)) {
+				const reminder = '這個問題和能源補助無關，我先回到一般聊天模式了。若要繼續查補助，請再點一次「能源補助 AI 顧問」。';
+				chatData.value.push({ id: chatData.value.length + 1, role: 'bot', isDefault: false, content: reminder });
+				saveChatLog(newChatData.content, reminder);
+				awaitingEnergySubsidyInput.value = false;
+				return;
+			}
+
+			const payload = {
+				session: "",
+				stream: false,
+				messages: [
+					{ role: 'user', content: `你是能源補助顧問，請只回答補助相關問題，答案要簡短、直接、繁體中文。
+
+使用者問題：${newChatData.content}
+
+請優先給結論，再列出最多 3 點重點；如果資訊不足，直接說明並提出下一步。` },
+				],
+			};
+			try {
+				const resp = await http.post('/ai/chat/twai', payload);
+				const botContent = resp?.data?.data?.content || '抱歉，我暫時無法查詢，請稍後再試。';
+				chatData.value.push({ id: chatData.value.length + 1, role: 'bot', isDefault: false, content: botContent });
+				saveChatLog(newChatData.content, botContent);
+			} catch (err) {
+				console.error('AI energy subsidy error:', err);
+				const reply = '抱歉，查詢服務暫時有問題，請稍後再試。';
+				chatData.value.push({ id: chatData.value.length + 1, role: 'bot', isDefault: false, content: reply });
+				saveChatLog(newChatData.content, reply);
+			}
+			return;
+		}
+
+		if (newChatData.content === '能源補助 AI 顧問') {
+			chatData.value.push({ id: chatData.value.length + 1, isDefault: false, ...newChatData });
+			const welcome = `⚡ 能源補助 AI 顧問已啟動。
+
+請直接問我補助相關問題，例如：有哪些可以申請、資格、流程、額度。
+
+我會盡量簡短回答；只要話題還在補助上，我就會一直留在這個模式。`;
+			chatData.value.push({ id: chatData.value.length + 1, role: 'bot', isDefault: false, content: welcome });
+			saveChatLog(newChatData.content, welcome);
+			awaitingEnergySubsidyInput.value = true;
+			return;
+		}
     	chatData.value.push({ id: chatData.value.length + 1, isDefault: false, ...newChatData });
 
 		recommendComponents.value = [];
