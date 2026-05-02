@@ -49,7 +49,7 @@ export const useChatStore = defineStore('chat', () => {
 			chatData.value.push({ id: chatData.value.length + 1, isDefault: false, ...newChatData });
 
 			if (!isCarbonRelatedInput(newChatData.content)) {
-				const reminder = '這個問題和減碳計算無關，我先不幫你計算喔。如需計算請重新點擊「減碳計算機!」';
+				const reminder = '這個問題超出我的計算範圍囉 🙈\n如需重新開始計算，請點擊下方的「減碳計算機」按鈕來呼叫我！';
 				chatData.value.push({ id: chatData.value.length + 1, role: 'bot', isDefault: false, content: reminder });
 				saveChatLog(newChatData.content, reminder);
 				awaitingCarbonInput.value = false;
@@ -102,7 +102,21 @@ export const useChatStore = defineStore('chat', () => {
 			// push the user query first
 			chatData.value.push({ id: chatData.value.length + 1, isDefault: false, ...newChatData });
 			// 回覆固定歡迎詞（不呼叫 AI）
-			const welcome = `嗨！歡迎使用 減碳計算機！\n\n我可以幫你估算以下項目的減碳量：走路、大眾運輸、蔬食餐、省電、省水、自備餐具等。\n\n請直接輸入你的「戰績」，例如：\n走路：3 公里\n大眾運輸：10 公里\n蔬食餐：1 餐\n\n你可以一次輸入多個項目。單位會在計算時使用公斤（kg）。`;
+			const welcome = `> 嗨！我是你的 🌍 **減碳小幫手**！
+ 
+ 
+ 每一個小行動都在為地球加分——不管是今天走路去買咖啡，還是選擇了一餐蔬食，都值得被記錄下來 ✨
+ 
+ 請告訴我你今天完成了哪些項目（可以多選）：
+ 
+ - 🚶 走路：XX 步
+ - 🚌 大眾運輸：XX 公里
+ - 🥗 蔬食餐：XX 餐
+ - 💧 省水：XX 公升
+ - 🛍️ 少用塑膠袋：XX 個
+ 
+ 直接輸入數字或簡單描述就好，我來幫你估算今天的碳減量！
+`;
 			chatData.value.push({ id: chatData.value.length + 1, role: 'bot', isDefault: false, content: welcome });
 			saveChatLog(newChatData.content, welcome);
 			// 等待使用者提供實際數據以便計算

@@ -25,7 +25,7 @@ const isStickyOpen = ref(false);
 const dashboardCreationLoading = ref(false);
 const quickActionButtons = [
 	"減碳計算機",
-	"AI 能源補助小幫手",
+	"能源補助 AI 顧問",
 ];
 
 const qaBtnHandler = async (text, relations) => {
