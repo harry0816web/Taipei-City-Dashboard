@@ -15,6 +15,8 @@ export const useChatStore = defineStore('chat', () => {
   	];
 
 	const recommendComponents = ref(null)
+	// 當使用者啟動減碳計算機並等待輸入數據時，設為 true
+	const awaitingCarbonInput = ref(false)
 
   	// 從 sessionStorage 讀取
   	const savedChatData = JSON.parse(sessionStorage.getItem('chatData')) || [];
@@ -37,7 +39,76 @@ export const useChatStore = defineStore('chat', () => {
     	chatData.value.push({ id: chatData.value.length + 1, isDefault: false, ...newChatData });
   	};
 
-  	const addQueryData = async (newChatData) => {
+  	const isCarbonRelatedInput = (content) => {
+		return /走路|步行|大眾運輸|公車|捷運|火車|蔬食|素食|省電|省水|自備餐具|減碳|碳排|碳|樹|大安森林公園/i.test(content);
+	};
+
+	const addQueryData = async (newChatData) => {
+		// 如果正在等待使用者提供減碳數據，先判斷是否真的跟減碳有關
+		if (awaitingCarbonInput.value) {
+			chatData.value.push({ id: chatData.value.length + 1, isDefault: false, ...newChatData });
+
+			if (!isCarbonRelatedInput(newChatData.content)) {
+				const reminder = '這個問題和減碳計算無關，我先不幫你計算喔。如需計算請重新點擊「減碳計算機!」';
+				chatData.value.push({ id: chatData.value.length + 1, role: 'bot', isDefault: false, content: reminder });
+				saveChatLog(newChatData.content, reminder);
+				awaitingCarbonInput.value = false;
+				return;
+			}
+
+			const payload = {
+				session: "",
+				stream: false,
+				messages: [
+					{ role: 'user', content: `你是一個減碳計算助手，請只根據使用者輸入與以下參考資料進行計算。
+
+參考資料：
+- 1 棵成年樹 / 年 = 12 kg
+- 1 座大安森林公園 / 日 = 1052 kg
+- 1 座大安森林公園 / 年 = 384000 kg
+
+使用者提供：${newChatData.content}
+
+如果輸入內容與減碳無關，請直接提醒使用者這題無關，不要計算。
+請先解析每個行為的減碳量，再加總成總計，全部只用 kg。
+回覆格式請包含：
+0. 開頭先用自然、活潑、有人味的口吻暖場，像是「太棒了！我幫你整理出來了～」或「很不錯，你今天已經為地球做了不少事！」，不要直接冷冰冰地進入條列。
+1. 每項減碳結果，格式為「項目：數量 -> 減碳 X kg」
+2. 總計，格式為「總計：X kg」
+3. 根據總減碳量選擇最合適的比喻：
+   - 日常小量減碳，使用「X / 12 = 幾棵樹 / 年」，回覆例句如「你今天節省了 3 kg 碳排，這相當於 0.25 棵樹一整年的吸碳量喔！」
+   - 個人年度累積，使用「X / 1052 = 大安森林公園工作天數」，回覆可換算成小時，例句如「你這一年共減碳 500 kg，相當於大安森林公園幫地球工作了 11.4 小時！」
+   - 企業或大型活動，使用「X / 384000 = 幾座大安森林公園 / 年」，回覆例句如「本次活動減碳 38400 kg，相當於 0.1 座大安森林公園一年的吸碳量！」
+4. 回覆語氣要活潑、鼓勵、繁體中文，並在最後再補一句自然的總結。
+` },
+				],
+			};
+			try {
+				const resp = await http.post('/ai/chat/twai', payload);
+				const botContent = resp?.data?.data?.content || '抱歉，我暫時無法計算，請稍後再試。';
+				chatData.value.push({ id: chatData.value.length + 1, role: 'bot', isDefault: false, content: botContent });
+				saveChatLog(newChatData.content, botContent);
+			} catch (err) {
+				console.error('AI carbon calculation error:', err);
+				const reply = '抱歉，計算服務暫時有問題，請稍後再試或提供更完整的資料。';
+				chatData.value.push({ id: chatData.value.length + 1, role: 'bot', isDefault: false, content: reply });
+				saveChatLog(newChatData.content, reply);
+			}
+			// 處理完畢，重置等待狀態
+			awaitingCarbonInput.value = false;
+			return;
+		}
+		if (newChatData.content === '減碳計算機') {
+			// push the user query first
+			chatData.value.push({ id: chatData.value.length + 1, isDefault: false, ...newChatData });
+			// 回覆固定歡迎詞（不呼叫 AI）
+			const welcome = `嗨！歡迎使用 減碳計算機！\n\n我可以幫你估算以下項目的減碳量：走路、大眾運輸、蔬食餐、省電、省水、自備餐具等。\n\n請直接輸入你的「戰績」，例如：\n走路：3 公里\n大眾運輸：10 公里\n蔬食餐：1 餐\n\n你可以一次輸入多個項目。單位會在計算時使用公斤（kg）。`;
+			chatData.value.push({ id: chatData.value.length + 1, role: 'bot', isDefault: false, content: welcome });
+			saveChatLog(newChatData.content, welcome);
+			// 等待使用者提供實際數據以便計算
+			awaitingCarbonInput.value = true;
+			return;
+		}
 
     	chatData.value.push({ id: chatData.value.length + 1, isDefault: false, ...newChatData });
 
