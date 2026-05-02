@@ -1,0 +1,2870 @@
+{
+  "UpdateTime": "2026-05-02T05:16:46+08:00",
+  "UpdateInterval": 14400,
+  "SrcUpdateTime": "2026-05-02T05:16:38+08:00",
+  "SrcUpdateInterval": -1,
+  "AuthorityCode": "NWT",
+  "ServiceTimes": [
+    {
+      "StationID": "34104124-S01",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "LastEntranceTime": "00:00",
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "42861108-S17090",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 1,
+          "StartTime": "07:00",
+          "EndTime": "12:00"
+        }
+      ]
+    },
+    {
+      "StationID": "54363149-Ss1n0",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "LastEntranceTime": "00:00",
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "70553757-S0001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "LastEntranceTime": "00:00",
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "54710871-S0001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "90016138-SF001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "90016138-S643927b1",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 1,
+          "LastEntranceTime": "22:00",
+          "StartTime": "07:00",
+          "EndTime": "23:00"
+        }
+      ]
+    },
+    {
+      "StationID": "94128120-S0004120",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "94128120-S0004121",
+      "OpeningHours": [
+        {
+          "ServiceType": 3,
+          "DayType": 2,
+          "StartTime": "11:00",
+          "EndTime": "23:00"
+        },
+        {
+          "ServiceType": 3,
+          "DayType": 3,
+          "StartTime": "11:00",
+          "EndTime": "23:00"
+        }
+      ]
+    },
+    {
+      "StationID": "94273051-S2gpG2Tp",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "12:00"
+        }
+      ]
+    },
+    {
+      "StationID": "93519232-S0010",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "37759379-SB0021",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "60225577-SA0694011",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "91887251-SA040601",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "91903689-SA040701",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "97179430-S162",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 1,
+          "StartTime": "11:00",
+          "EndTime": "22:00"
+        }
+      ]
+    },
+    {
+      "StationID": "97179430-S161",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28114216-S124",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "06:00",
+          "EndTime": "22:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28114216-S184",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "85051710-S471",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "85051710-S639",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "83039115-S0003",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "83039115-S0002",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "33029464-STP6820001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "33029464-STP6640001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28371994-STP7630001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28371994-STP4370001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28007736-S049",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28007736-S051",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "42861108-Sd70033ee-9101-425a-adb5-919c788f5dbc",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 1,
+          "StartTime": "08:00",
+          "EndTime": "20:00"
+        }
+      ]
+    },
+    {
+      "StationID": "42861108-S543408c0-ad77-4f2c-af34-6bbbf4175c31",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "42861108-S09bf3b8f-8fe9-44d3-be15-2a0cf5891db6",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "42861108-Sbe38b430-6d41-40e7-bc9d-d0f913b1f36a",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 1,
+          "StartTime": "07:00",
+          "EndTime": "23:00"
+        }
+      ]
+    },
+    {
+      "StationID": "42861108-S5f440307-00e3-4c34-a2a1-f66f48123618",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 1,
+          "StartTime": "09:00",
+          "EndTime": "22:00"
+        }
+      ]
+    },
+    {
+      "StationID": "42861108-S945a1b98-3f8d-4da2-8de2-928295b1378d",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "42861108-Sf90c9fd9-843b-4573-bba4-96b5740c6ab9",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "42861108-S6b706da3-fa15-4a3c-8d93-320a5c21af23",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "42861108-S90b04491-49d2-4010-b5f5-30dd08d88254",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "42861108-S7cb16f34-2913-4db7-bc2f-a6ba16f52005",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "42861108-S01342a10-aa64-4f90-ae30-1b8d7d3fcc86",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "42861108-S852a2236-52bc-4366-aa9e-1552330789ac",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "42861108-S9e864926-d6fd-4100-929e-27498da60fb2",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "42861108-S663cbaf2-0ad2-43cf-89de-d05bfe391308",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "42861108-S554815bb-24da-4ed1-8e6d-5aeb04c584c6",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "42861108-Se3f94cf3-0acd-4ed4-a383-7d095af4e934",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "42861108-S5a4c664d-b9f1-4b87-b33a-51295d34979a",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28652185-SJIA001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28652185-SLINKOU001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28652185-SLINKOU002",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28652185-SLINKOU003",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28652185-SLINKOU004",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28652185-SXZPEP0001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28652185-SMRTHL0001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28652185-SBQTS0001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28652185-SMRTHS0001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28652185-SMRTYN0001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28652185-SMRTDP0001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "83284334-S00001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "90444103-S53",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "46037888-S59",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "46037888-S60",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "54991324-S62",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "46037888-S64",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "46037888-S65",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "54991324-S74",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "46037888-S122",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "53328840-S132",
+      "OpeningHours": [
+        {
+          "ServiceType": 3,
+          "DayType": 2,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        },
+        {
+          "ServiceType": 3,
+          "DayType": 3,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        },
+        {
+          "ServiceType": 3,
+          "DayType": 3,
+          "StartTime": "00:00",
+          "EndTime": "11:59"
+        }
+      ]
+    },
+    {
+      "StationID": "34176631-S179",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "24788035-S185",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "34220432-S238",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "94175832-SUCF0279F048",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "10:00",
+          "EndTime": "21:30"
+        }
+      ]
+    },
+    {
+      "StationID": "94175832-SUCF0233F039",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "10:00",
+          "EndTime": "21:30"
+        }
+      ]
+    },
+    {
+      "StationID": "94175832-SUCG0178G001",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 1,
+          "StartTime": "06:00",
+          "EndTime": "22:00"
+        }
+      ]
+    },
+    {
+      "StationID": "94175832-SUCF0259F040",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "10:00",
+          "EndTime": "21:30"
+        }
+      ]
+    },
+    {
+      "StationID": "94175832-SUCB0078G002",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "94175832-SUCB0233G002",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 1,
+          "StartTime": "07:30",
+          "EndTime": "23:00"
+        }
+      ]
+    },
+    {
+      "StationID": "94175832-SUCG0015G001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SACSD00069",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD00077",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02391",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 2,
+          "StartTime": "11:00",
+          "EndTime": "22:00"
+        },
+        {
+          "ServiceType": 2,
+          "DayType": 2,
+          "StartTime": "11:00",
+          "EndTime": "23:59"
+        },
+        {
+          "ServiceType": 2,
+          "DayType": 3,
+          "StartTime": "11:00",
+          "EndTime": "22:00"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02634",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 1,
+          "StartTime": "06:00",
+          "EndTime": "22:00"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02635",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02645",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02685",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02686",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02687",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02693",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02763",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 1,
+          "StartTime": "11:00",
+          "EndTime": "22:00"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02779",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02780",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02781",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02782",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02783",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02787",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02788",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02789",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02790",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02791",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02792",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02793",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02794",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02802",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02803",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02804",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02809",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02810",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02811",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02812",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02813",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02814",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02815",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02816",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02817",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02878",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02879",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02880",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02881",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02882",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02883",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02884",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02885",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02886",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02887",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02888",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02889",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02890",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02891",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02892",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02893",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02894",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02895",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02896",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02897",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02898",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02899",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02900",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02901",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02902",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02903",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02904",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02905",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02906",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02907",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02908",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02909",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02910",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02911",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02912",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02913",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02914",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02915",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02916",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02917",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02918",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02919",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02920",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02921",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02922",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02923",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02924",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02925",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02926",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02927",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02928",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02930",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02931",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02932",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02933",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02934",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02935",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02936",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02937",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02938",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02939",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02940",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02941",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02942",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02943",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02944",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02945",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02946",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02947",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02948",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02949",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02950",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02951",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02952",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02953",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02954",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02955",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02956",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02957",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02958",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02959",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02960",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02961",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02962",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02965",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02966",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02967",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02968",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD02969",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD03173",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD03192",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD03203",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD03220",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 1,
+          "StartTime": "07:00",
+          "EndTime": "23:00"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD03230",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD03253",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD03263",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD03463",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD03467",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD03484",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD03505",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD03541",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD03547",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90807408-SCSD03554",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "42861108-S32202",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "90505425-S58665",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "11:00",
+          "EndTime": "22:00"
+        }
+      ]
+    },
+    {
+      "StationID": "12681939-SPSS_YA41001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "12681939-Shfc_17",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "60219358-S168_8",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "87545789-S168_13",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "87545768-S168_26",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "87545768-S168_11",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "80390037-S168_7",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "24394433-Ssungreen_20",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "86711789-Sgowin_1",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90148497-S1046",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 1,
+          "StartTime": "07:00",
+          "EndTime": "19:00"
+        }
+      ]
+    },
+    {
+      "StationID": "90148497-S1171",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90148497-S1215",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "90148497-S1240",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "53703514-S2209",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "53703514-S2375",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 1,
+          "StartTime": "07:00",
+          "EndTime": "21:00"
+        }
+      ]
+    },
+    {
+      "StationID": "53703514-S1101",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "90482725-S0080",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "50965513-SPDP3104001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "85017137-SNWT0001",
+      "OpeningHours": [
+        {
+          "ServiceType": 3,
+          "DayType": 4,
+          "StartTime": "08:00",
+          "EndTime": "23:00"
+        }
+      ]
+    },
+    {
+      "StationID": "89132567-S0067",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "89132567-S0069",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "89132567-S0072",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "89132567-S0080",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "89132567-S0081",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "89132567-S0084",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 4,
+          "StartTime": "07:00",
+          "EndTime": "22:00"
+        }
+      ]
+    },
+    {
+      "StationID": "89132567-S0105",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "89132567-S0109",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "89132567-S0110",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "89132567-S0113",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "89132567-S0114",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "89132567-S0115",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "89132567-S0116",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "89132567-S0121",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "89132567-S0122",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "89132567-S0128",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "89132567-S0134",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "89132567-S0135",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "89132567-S0148",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "89132567-S0149",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    }
+  ]
+}

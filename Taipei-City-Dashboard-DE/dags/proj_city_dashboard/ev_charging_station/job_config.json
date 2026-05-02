@@ -1,0 +1,53 @@
+{
+  "dag_infos": {
+    "dag_id": "ev_charging_station",
+    "start_date": "2025-05-02",
+    "schedule_interval": "0 6 * * *",
+    "catchup": false,
+    "tags": [
+      "ev_charging_station",
+      "TDX",
+      "臺北市",
+      "Taipei",
+      "電動車充電站",
+      "永續環境"
+    ],
+    "description": "EV charging station distribution and real-time availability for Taipei City. Data from TDX /v1/EV/ APIs.",
+    "default_args": {
+      "owner": "airflow",
+      "email": ["DEFAULT_EMAIL_LIST"],
+      "email_on_retry": false,
+      "email_on_failure": true,
+      "retries": 1,
+      "retry_delay": 60
+    },
+    "ready_data_db": "postgres_default",
+    "ready_data_default_table": "ev_charging_station_taipei",
+    "ready_data_history_table": "",
+    "raw_data_db": "postgres_default",
+    "raw_data_table": "raw_ev_charging_station_taipei",
+    "load_behavior": "replace"
+  },
+  "data_infos": {
+    "name_cn": "臺北市電動車充電站資料",
+    "airflow_update_freq": "06:00 every day",
+    "source_station": "https://tdx.transportdata.tw/api/basic/v1/EV/Station/City/Taipei?$format=JSON",
+    "source_live":    "https://tdx.transportdata.tw/api/basic/v1/EV/ConnectorLiveStatus/City/Taipei?$format=JSON",
+    "source_rate":    "https://tdx.transportdata.tw/api/basic/v1/EV/ChargingRate/City/Taipei?$format=JSON",
+    "source_operator":"https://tdx.transportdata.tw/api/basic/v1/EV/Operator/City/Taipei?$format=JSON",
+    "source_type": "TDX API",
+    "source_dept": "交通部 TDX 運輸資料流通服務",
+    "gis_format": "GeoJSON",
+    "output_coordinate": "EPSG:4326",
+    "is_geometry": 1,
+    "dataset_description": "臺北市電動車充電站基本資料與即時充電槍狀態，含座標、費率、營運業者等資訊",
+    "etl_description": "fetch TDX EV Station + ConnectorLiveStatus → spatial join with taipei_town.geojson for district → aggregate by district → save to PostgreSQL + GeoJSON",
+    "sensitivity": "public",
+    "_note_current_status": "API 申請審核中。目前使用 etl_static.py 處理下載資料作為靜態資料來源。API 核准後啟用此 DAG。",
+    "_connector_status_codes": {
+      "1": "Available 空閒",
+      "2": "Occupied 使用中",
+      "3": "Unavailable 不可用/故障"
+    }
+  }
+}

@@ -1,0 +1,640 @@
+{
+  "UpdateTime": "2026-05-02T05:16:46+08:00",
+  "UpdateInterval": 14400,
+  "SrcUpdateTime": "2026-05-02T05:16:34+08:00",
+  "SrcUpdateInterval": -1,
+  "AuthorityCode": "NWT",
+  "Operators": [
+    {
+      "OperatorID": "34104124",
+      "OperatorName": {
+        "Zh_tw": "新北市永和區頂溪國民小學"
+      },
+      "Telephone": "29212058",
+      "Address": "新北市永和區文化路133號B1",
+      "WebURL": "新北市永和區文化路133號",
+      "LogoURL": "https://www.thps.ntpc.edu.tw/",
+      "TsAndCsURL": "https://www.thps.ntpc.edu.tw/",
+      "BAN": "34104124"
+    },
+    {
+      "OperatorID": "42861108",
+      "OperatorName": {
+        "Zh_tw": "台灣特斯拉汽車有限公司",
+        "En": "TESLA"
+      },
+      "Telephone": "0809007518",
+      "Address": "臺北市內湖區民權東路6段11巷6號",
+      "WebURL": "無",
+      "LogoURL": "無",
+      "BAN": "42861108"
+    },
+    {
+      "OperatorID": "54363149",
+      "OperatorName": {
+        "Zh_tw": "拓廣科技股份有限公司"
+      },
+      "Telephone": "0277220677",
+      "Address": "台北市南港區園區街3號9樓之5",
+      "WebURL": "https://www.noodoe.com.tw/",
+      "LogoURL": "https://www.noodoe.com.tw/",
+      "TsAndCsURL": "https://www.noodoe.com.tw/",
+      "BAN": "54363149"
+    },
+    {
+      "OperatorID": "55762636",
+      "OperatorName": {
+        "Zh_tw": "麻吉行得通股份有限公司"
+      },
+      "Telephone": "02-25950445",
+      "Address": "無",
+      "WebURL": "無",
+      "LogoURL": "無",
+      "BAN": "55762636"
+    },
+    {
+      "OperatorID": "70553757",
+      "OperatorName": {
+        "Zh_tw": "好停企業有限公司"
+      },
+      "Telephone": "02-2240-8767",
+      "Address": "新北市中和區南山路175號",
+      "WebURL": "https://www.twincn.com/item.aspx?no=70553757",
+      "LogoURL": "https://www.twincn.com/item.aspx?no=70553757",
+      "TsAndCsURL": "https://www.twincn.com/item.aspx?no=70553757",
+      "BAN": "70553757"
+    },
+    {
+      "OperatorID": "54710871",
+      "OperatorName": {
+        "Zh_tw": "宏匯思源股份有限公司",
+        "En": "Hon Hui Si Yuan CO., LTD."
+      },
+      "Telephone": "02-2278-9066",
+      "Address": "新北市新莊區思源路555號",
+      "WebURL": "https://www.honhui-group.com/",
+      "LogoURL": "https://www.honhui-group.com/",
+      "TsAndCsURL": "https://www.honhui-group.com/",
+      "BAN": "54710871"
+    },
+    {
+      "OperatorID": "90016138",
+      "OperatorName": {
+        "Zh_tw": "檸檬動能股份有限公司",
+        "En": " LEMON POWER INTERNATIONAL CO., LTD."
+      },
+      "Telephone": "02-77292389",
+      "Address": "臺北市大安區光復南路102號14樓",
+      "WebURL": "http://www.qtek.com.tw/",
+      "LogoURL": "http://www.qtek.com.tw/one-page/images/canvasone-dark.png",
+      "TsAndCsURL": "http://www.qtek.com.tw/",
+      "BAN": "90016138"
+    },
+    {
+      "OperatorID": "28906575",
+      "OperatorName": {
+        "Zh_tw": "金卯事業有限公司",
+        "En": "JIN MAO Enterprise LTD."
+      },
+      "Telephone": "03-9568886",
+      "Address": "宜蘭縣五結鄉協和村公園路311巷19號1樓",
+      "WebURL": "http://www.qtek.com.tw/",
+      "LogoURL": "https://img.onl/OHiz6T",
+      "TsAndCsURL": "http://www.qtek.com.tw/",
+      "BAN": "28906575"
+    },
+    {
+      "OperatorID": "94128120",
+      "OperatorName": {
+        "Zh_tw": "達拉電能",
+        "En": "Dara"
+      },
+      "Telephone": "02-22186096",
+      "Address": "台北市大安區敦化南路二段65號9樓",
+      "WebURL": "https://darapower.com/",
+      "LogoURL": "https://097blob.blob.core.windows.net/sns/devchargingmap/202404/993dcf44-6f14-408e-be0c-d407bf2d1b85.png",
+      "BAN": "94128120"
+    },
+    {
+      "OperatorID": "94273051",
+      "OperatorName": {
+        "Zh_tw": "超馳電力系統有限公司",
+        "En": " Super Charger  Power System Co., Ltd."
+      },
+      "Telephone": "03-3603311",
+      "Address": "新竹市北區湳雅里湳雅街187巷50號",
+      "WebURL": "https://www.facebook.com/scps.taichung/",
+      "LogoURL": "https://www.facebook.com/photo.php?fbid=122099049254901122",
+      "BAN": "94273051"
+    },
+    {
+      "OperatorID": "93519232",
+      "OperatorName": {
+        "Zh_tw": "區快充科技股份有限公司",
+        "En": "Charging Blok Tech Inc."
+      },
+      "Telephone": "03-5620708",
+      "Address": "新竹市東區民權路110號8樓",
+      "WebURL": "https://cblok.biz",
+      "LogoURL": "https://stcblokje.blob.core.windows.net/opendata/tdx/assets/93519232.png",
+      "TsAndCsURL": "https://stcblokje.blob.core.windows.net/common/termsofuse.html",
+      "BAN": "93519232"
+    },
+    {
+      "OperatorID": "37759379",
+      "OperatorName": {
+        "Zh_tw": "日月亭股份有限公司 忠厚營業所"
+      },
+      "Telephone": "2643-7872",
+      "Address": "新北市汐止區樟樹一路137巷26號地下停車場",
+      "WebURL": "https://www.youparking.com.tw/",
+      "LogoURL": "https://www.youparking.com.tw/",
+      "BAN": "37759379"
+    },
+    {
+      "OperatorID": "60225577",
+      "OperatorName": {
+        "Zh_tw": "俥亭停車事業股份有限公司瑞芳八斗子營業所"
+      },
+      "Telephone": "02-24257730",
+      "Address": "新北市瑞芳區建基路二段127號對面空地停車場",
+      "WebURL": "https://www.youparking.com.tw/",
+      "LogoURL": "https://www.youparking.com.tw/",
+      "BAN": "60225577"
+    },
+    {
+      "OperatorID": "91887251",
+      "OperatorName": {
+        "Zh_tw": "俥亭停車事業股份有限公司雙和醫院營業所"
+      },
+      "Telephone": "02-22432965",
+      "Address": "新北市中和區中正路291號1樓 B1~B5停車場",
+      "WebURL": "https://www.youparking.com.tw/index.php",
+      "LogoURL": "https://www.youparking.com.tw/index.php",
+      "BAN": "91887251"
+    },
+    {
+      "OperatorID": "91903689",
+      "OperatorName": {
+        "Zh_tw": "俥亭停車事業股份有限公司雙和醫院二營業所"
+      },
+      "Telephone": "02-22436083",
+      "Address": "新北市中和區圓通路301號B2~2樓停車場",
+      "WebURL": "https://www.youparking.com.tw/index.php",
+      "LogoURL": "https://www.youparking.com.tw/index.php",
+      "BAN": "91903689"
+    },
+    {
+      "OperatorID": "97179430",
+      "OperatorName": {
+        "Zh_tw": "遠傳電信股份有限公司",
+        "En": "Far EasTone"
+      },
+      "Telephone": "0809-080-080",
+      "Address": "臺北市內湖區瑞光路468號",
+      "WebURL": "https://www.fetnet.net/content/cbu/tw/index.html",
+      "LogoURL": "https://evcharge.fetnet.net/webapp/img/fet_logo_2.960c6e4f.jpg",
+      "BAN": "97179430"
+    },
+    {
+      "OperatorID": "28114216",
+      "OperatorName": {
+        "Zh_tw": "創玖科技股份有限公司",
+        "En": "InnoKnight"
+      },
+      "Telephone": "03-5775036",
+      "Address": "新竹市新竹科學園區力行一路1號1A2-A01",
+      "WebURL": "https://www.innoknight.com",
+      "LogoURL": "https://static.wixstatic.com/media/c705a6_bfdda222586e4e6ab8d9ead3a6156784~mv2.png/v1/fill/w_116,h_48,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c705a6_bfdda222586e4e6ab8d9ead3a6156784~mv2.png",
+      "TsAndCsURL": "https://www.innoknight.com",
+      "BAN": "28114216"
+    },
+    {
+      "OperatorID": "85051710",
+      "OperatorName": {
+        "Zh_tw": "源點科技股份有限公司"
+      },
+      "Telephone": "06-6020889",
+      "Address": "臺南市歸仁區高發二路360號B406",
+      "WebURL": "https://www.evoasis.com.tw",
+      "LogoURL": "https://evoasis.s3.ap-northeast-1.amazonaws.com/Notification/evoasis_logo.png",
+      "BAN": "85051710"
+    },
+    {
+      "OperatorID": "83039115",
+      "OperatorName": {
+        "Zh_tw": "綠樹科技股份有限公司",
+        "En": "Treenet Technology, LTD."
+      },
+      "Telephone": "02-26069114",
+      "Address": "106台北市大安區復興南路一段237號15樓",
+      "WebURL": "https://treenet.tw/",
+      "LogoURL": "https://treenet.tw/images/treenet.png",
+      "TsAndCsURL": "https://treenet.tw/terms/",
+      "BAN": "83039115"
+    },
+    {
+      "OperatorID": "33029464",
+      "OperatorName": {
+        "Zh_tw": "中興電工機械股份有限公司"
+      },
+      "Telephone": "02-26550818",
+      "Address": "台北市南港區三重路19-5號2樓",
+      "WebURL": "https://www.dodohome.com.tw/index.aspx",
+      "LogoURL": "https://www.dodohome.com.tw/images/logo.png",
+      "BAN": "33029464"
+    },
+    {
+      "OperatorID": "28371994",
+      "OperatorName": {
+        "Zh_tw": "寶盛國際股份有限公司"
+      },
+      "Telephone": "02-26550818",
+      "Address": "台北市南港區三重路19-5號2樓",
+      "WebURL": "https://www.dodohome.com.tw/index.aspx",
+      "LogoURL": "https://www.dodohome.com.tw/images/logo.png",
+      "BAN": "28371994"
+    },
+    {
+      "OperatorID": "28007736",
+      "OperatorName": {
+        "Zh_tw": "皇鋒通訊股份有限公司",
+        "En": "Palcom International Corporation"
+      },
+      "Telephone": "02-87516228",
+      "Address": "台北市內湖區陽光街385號8F",
+      "WebURL": "https://www.eviator.net/",
+      "LogoURL": "https://www.eviator.net/homepage_img/EViator_icon.png",
+      "TsAndCsURL": "https://www.eviator.net/policy",
+      "BAN": "28007736"
+    },
+    {
+      "OperatorID": "28652185",
+      "OperatorName": {
+        "Zh_tw": "正好停股份有限公司"
+      },
+      "Telephone": "02-27995656",
+      "Address": "臺北市內湖區內湖路1段246號3樓",
+      "WebURL": "https://www.facebook.com/jrp27995657/?locale=zh_TW",
+      "LogoURL": "https://www.facebook.com/jrp27995657/?locale=zh_TW",
+      "BAN": "28652185"
+    },
+    {
+      "OperatorID": "83284334",
+      "OperatorName": {
+        "Zh_tw": "鳴日科技股份有限公司",
+        "En": "Tomorrowland"
+      },
+      "Telephone": "(02)8791-9090",
+      "Address": "台北市內湖區瑞光路8號6樓",
+      "WebURL": "https://www.tomorrowland.com.tw/",
+      "LogoURL": "https://tdx.paca.com.tw/pub/tomorrowland/logo.png",
+      "TsAndCsURL": "https://tdx.paca.com.tw/pub/tomorrowland/tscs.html",
+      "BAN": "83284334"
+    },
+    {
+      "OperatorID": "90444103",
+      "OperatorName": {
+        "Zh_tw": "淞和工程企業有限公司"
+      },
+      "Telephone": "02-22559610",
+      "Address": "台灣新北市土城區學士路72號1樓",
+      "WebURL": "https://www.flyelephant.com.tw/evbar",
+      "LogoURL": "https://static.wixstatic.com/media/76e849_68b683ea491543eaa05efbfb7f70e4b1~mv2.png/v1/fill/w_288,h_91,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/flyelephant_2020_logo_3a249048.png",
+      "BAN": "90444103"
+    },
+    {
+      "OperatorID": "46037888",
+      "OperatorName": {
+        "Zh_tw": "全尚國際有限公司"
+      },
+      "Telephone": "02-22559610",
+      "Address": "台灣新北市三峽區大同路214號1樓",
+      "WebURL": "https://www.flyelephant.com.tw/evbar",
+      "LogoURL": "https://static.wixstatic.com/media/76e849_68b683ea491543eaa05efbfb7f70e4b1~mv2.png/v1/fill/w_288,h_91,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/flyelephant_2020_logo_3a249048.png",
+      "BAN": "46037888"
+    },
+    {
+      "OperatorID": "54991324",
+      "OperatorName": {
+        "Zh_tw": "三啟科技股份有限公司"
+      },
+      "Telephone": "02-22559610",
+      "Address": "台灣新北市新莊區思源路507號1樓",
+      "WebURL": "https://www.flyelephant.com.tw/evbar",
+      "LogoURL": "https://static.wixstatic.com/media/76e849_68b683ea491543eaa05efbfb7f70e4b1~mv2.png/v1/fill/w_288,h_91,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/flyelephant_2020_logo_3a249048.png",
+      "BAN": "54991324"
+    },
+    {
+      "OperatorID": "90562109",
+      "OperatorName": {
+        "Zh_tw": "永循能源科技股份有限公司"
+      },
+      "Telephone": "02-22559610",
+      "Address": "台灣新北市中和區中原街95號地下1樓",
+      "WebURL": "https://www.flyelephant.com.tw/evbar",
+      "LogoURL": "https://static.wixstatic.com/media/76e849_68b683ea491543eaa05efbfb7f70e4b1~mv2.png/v1/fill/w_288,h_91,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/flyelephant_2020_logo_3a249048.png",
+      "BAN": "90562109"
+    },
+    {
+      "OperatorID": "53328840",
+      "OperatorName": {
+        "Zh_tw": "華訊電能事業股份有限公司"
+      },
+      "Telephone": "02-22559610",
+      "Address": "台灣新北市鶯歌區鶯桃路129號1樓",
+      "WebURL": "https://www.flyelephant.com.tw/evbar",
+      "LogoURL": "https://static.wixstatic.com/media/76e849_68b683ea491543eaa05efbfb7f70e4b1~mv2.png/v1/fill/w_288,h_91,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/flyelephant_2020_logo_3a249048.png",
+      "BAN": "53328840"
+    },
+    {
+      "OperatorID": "34176631",
+      "OperatorName": {
+        "Zh_tw": "新北市立江翠國民中學"
+      },
+      "Telephone": "02-22559610",
+      "Address": "台灣新北市板橋區松江街63號地下1樓",
+      "WebURL": "https://www.flyelephant.com.tw/evbar",
+      "LogoURL": "https://static.wixstatic.com/media/76e849_68b683ea491543eaa05efbfb7f70e4b1~mv2.png/v1/fill/w_288,h_91,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/flyelephant_2020_logo_3a249048.png",
+      "BAN": "34176631"
+    },
+    {
+      "OperatorID": "85012702",
+      "OperatorName": {
+        "Zh_tw": "舞動陽光股份有限公司泰山分公司"
+      },
+      "Telephone": "02-22559610",
+      "Address": "台灣新北市泰山區公園路54號1樓",
+      "WebURL": "https://www.flyelephant.com.tw/evbar",
+      "LogoURL": "https://static.wixstatic.com/media/76e849_68b683ea491543eaa05efbfb7f70e4b1~mv2.png/v1/fill/w_288,h_91,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/flyelephant_2020_logo_3a249048.png",
+      "BAN": "85012702"
+    },
+    {
+      "OperatorID": "",
+      "OperatorName": {
+        "Zh_tw": "華訊電能事業股份有限公司"
+      },
+      "Telephone": "02-22559610",
+      "Address": "台灣新北市汐止區復興路2號1樓",
+      "WebURL": "https://www.flyelephant.com.tw/evbar",
+      "LogoURL": "https://static.wixstatic.com/media/76e849_68b683ea491543eaa05efbfb7f70e4b1~mv2.png/v1/fill/w_288,h_91,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/flyelephant_2020_logo_3a249048.png",
+      "BAN": ""
+    },
+    {
+      "OperatorID": "60244027",
+      "OperatorName": {
+        "Zh_tw": "舞動陽光股份有限公司淡水營業所"
+      },
+      "Telephone": "02-22559610",
+      "Address": "台灣新北市淡水區中山北路二段381巷2號1樓",
+      "WebURL": "https://www.flyelephant.com.tw/evbar",
+      "LogoURL": "https://static.wixstatic.com/media/76e849_68b683ea491543eaa05efbfb7f70e4b1~mv2.png/v1/fill/w_288,h_91,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/flyelephant_2020_logo_3a249048.png",
+      "BAN": "60244027"
+    },
+    {
+      "OperatorID": "34220432",
+      "OperatorName": {
+        "Zh_tw": "文強交通有限公司"
+      },
+      "Telephone": "",
+      "Address": "",
+      "WebURL": "",
+      "LogoURL": "",
+      "BAN": "34220432"
+    },
+    {
+      "OperatorID": "91342913",
+      "OperatorName": {
+        "Zh_tw": "大河琉御社區管理委員會"
+      },
+      "Telephone": "",
+      "Address": "",
+      "WebURL": "",
+      "LogoURL": "",
+      "BAN": "91342913"
+    },
+    {
+      "OperatorID": "33500603",
+      "OperatorName": {
+        "Zh_tw": "新北市土城區公所"
+      },
+      "Telephone": "",
+      "Address": "",
+      "WebURL": "",
+      "LogoURL": "",
+      "BAN": "33500603"
+    },
+    {
+      "OperatorID": "60243673",
+      "OperatorName": {
+        "Zh_tw": "舞動陽光股份有限公司泰山營業所"
+      },
+      "Telephone": "",
+      "Address": "",
+      "WebURL": "",
+      "LogoURL": "",
+      "BAN": "60243673"
+    },
+    {
+      "OperatorID": "94175832",
+      "OperatorName": {
+        "Zh_tw": "台灣大動力服務股份有限公司",
+        "En": "TWM Power CO., LTD."
+      },
+      "Telephone": "02-77518097",
+      "Address": "臺北市大安區敦化南路2段206號7樓",
+      "WebURL": "https://mycharge.taiwanmobile.com/",
+      "LogoURL": "https://mycharge.taiwanmobile.com/images/logo/logo+MyCharge.png",
+      "TsAndCsURL": "https://mycharge.taiwanmobile.com/privacy",
+      "BAN": "94175832"
+    },
+    {
+      "OperatorID": "90807408",
+      "OperatorName": {
+        "Zh_tw": "華城電能科技股份有限公司",
+        "En": "Fortune Electric Value Company Limited"
+      },
+      "Telephone": "0800-885-150",
+      "Address": "臺北市南港區三重路66號12樓",
+      "WebURL": "https://www.evalue.com.tw/index/",
+      "LogoURL": "https://www.evalue.com.tw/data/10000/images/logo.png",
+      "TsAndCsURL": "https://www.evalue.com.tw/about_privacy",
+      "BAN": "90807408"
+    },
+    {
+      "OperatorID": "90505425",
+      "OperatorName": {
+        "Zh_tw": "特爾電力股份有限公司",
+        "En": "EVTAIL CO., LTD."
+      },
+      "Telephone": "07-2251500",
+      "Address": "高雄市苓雅區中正二路175號15樓之2",
+      "WebURL": "https://www.evtail.com.tw/",
+      "LogoURL": "https://firebasestorage.googleapis.com/v0/b/evtail.appspot.com/o/About%2Fabout-header-bg-3.png?alt=media&token=a3814d9e-2d98-4047-8a6a-9ea77dc8bbbd",
+      "TsAndCsURL": "https://tail.wincharge.net/legal/term-of-service",
+      "BAN": "90505425"
+    },
+    {
+      "OperatorID": "12681939",
+      "OperatorName": {
+        "Zh_tw": "阜爾運通股份有限公司",
+        "En": "PSS"
+      },
+      "Telephone": "02-22488958",
+      "Address": "新北市中和區中山路二段327巷10號4樓",
+      "WebURL": "https://pss-group.com/",
+      "LogoURL": "https://pss-group.com/images/layout/logo.svg",
+      "BAN": "12681939"
+    },
+    {
+      "OperatorID": "24394433",
+      "OperatorName": {
+        "Zh_tw": "東陽能源科技股份有限公司"
+      },
+      "Telephone": "03-287-0600",
+      "Address": "桃園市中壢區高鐵站前西路一段286號",
+      "WebURL": "https://sungreen.ipvita.biz/api/uploads/webtags/s/u/images/f4675305861fe8d49bbc9bd360199244.jpg",
+      "LogoURL": "http://www.sungreentech.com.tw/",
+      "BAN": "24394433"
+    },
+    {
+      "OperatorID": "60219358",
+      "OperatorName": {
+        "Zh_tw": "及泰企業有限公司紅毛城停車場"
+      },
+      "Telephone": "(02)27546661",
+      "Address": "台北市大安區光復南路102號11樓",
+      "WebURL": "https://www.gochabar.com/",
+      "LogoURL": "https://www.gochabar.com/img/GCB-log.png",
+      "BAN": "60219358"
+    },
+    {
+      "OperatorID": "80390037",
+      "OperatorName": {
+        "Zh_tw": "根基國際有限公司青潭國民小學停車場"
+      },
+      "Telephone": "(02)27546661",
+      "Address": "台北市大安區光復南路102號11樓",
+      "WebURL": "https://www.gochabar.com/",
+      "LogoURL": "https://www.gochabar.com/img/GCB-log.png",
+      "BAN": "80390037"
+    },
+    {
+      "OperatorID": "86711789",
+      "OperatorName": {
+        "Zh_tw": "國雲公寓大廈管理維護股份有限公司"
+      },
+      "Telephone": "02-25573722",
+      "Address": "台北市南港區經貿二路135號8樓",
+      "WebURL": "https://www.gowin.tw/assets/front/images/layout/logo.svg",
+      "LogoURL": "https://www.gowin.tw/branch-office/4BEaB83F1325",
+      "BAN": "86711789"
+    },
+    {
+      "OperatorID": "87545789",
+      "OperatorName": {
+        "Zh_tw": "新北市立殯儀館三峽火化立體停車場"
+      },
+      "Telephone": "(02)27546661",
+      "Address": "台北市大安區光復南路102號11樓",
+      "WebURL": "https://www.gochabar.com/",
+      "LogoURL": "https://www.gochabar.com/img/GCB-log.png",
+      "BAN": "87545789"
+    },
+    {
+      "OperatorID": "39550880",
+      "OperatorName": {
+        "Zh_tw": "白雲國民小學"
+      },
+      "Telephone": "02-26403909",
+      "Address": "221新北市汐止區民權街二段90號",
+      "WebURL": "https://www.pyps.ntpc.edu.tw/",
+      "LogoURL": "https://gcsms.starcharger.com.tw/file/group1/image/白雲國小 logo1369721918054060482.jpg?download=0",
+      "BAN": "39550880"
+    },
+    {
+      "OperatorID": "42225635",
+      "OperatorName": {
+        "Zh_tw": "興南國民小學"
+      },
+      "Telephone": "02-29422349",
+      "Address": "235新北市中和區興南路一段135巷24號B1",
+      "WebURL": "https://www.hnps.ntpc.edu.tw/",
+      "LogoURL": "https://gcsms.starcharger.com.tw/file/group1/image/興南國小校徽5443556473206276204.jpg?download=0",
+      "BAN": "42225635"
+    },
+    {
+      "OperatorID": "90148497",
+      "OperatorName": {
+        "Zh_tw": "星舟快充"
+      },
+      "Telephone": "(02)28328057",
+      "Address": "臺中市北區臺灣大道二段360號5樓之1",
+      "WebURL": "https://starcharger.com.tw",
+      "LogoURL": "https://gcsms.starcharger.com.tw/file/group1/image/星舟 logo6923636959488028196.png?download=0",
+      "BAN": "90148497"
+    },
+    {
+      "OperatorID": "53703514",
+      "OperatorName": {
+        "Zh_tw": "裕電俥電股份有限公司",
+        "En": "YES Charging Service Co., LTD."
+      },
+      "Telephone": "02-55900599",
+      "Address": "新北市新店區中興路三段3號9樓",
+      "WebURL": "https://www.yes-charging.com.tw/",
+      "LogoURL": "https://lirp.cdn-website.com/5e0252b7/dms3rep/multi/opt/4-1920w.png",
+      "TsAndCsURL": "",
+      "BAN": "53703514"
+    },
+    {
+      "OperatorID": "90482725",
+      "OperatorName": {
+        "Zh_tw": "立鉑國際股份有限公司",
+        "En": "LINBROS"
+      },
+      "Telephone": "02-26028799",
+      "Address": "新竹縣竹北市復興三路二段168號6F之1",
+      "WebURL": "https://www.linbros.com.tw/",
+      "LogoURL": "https://www.linbros.com.tw/images/logo/Linbros-white.svg",
+      "BAN": "90482725"
+    },
+    {
+      "OperatorID": "50965513",
+      "OperatorName": {
+        "Zh_tw": "承翊系統整合股份有限公司"
+      },
+      "Telephone": "02-87683696#307",
+      "Address": "桃園市桃園區大興路290巷33號12樓",
+      "WebURL": "https://www.chacha-charging.com/index",
+      "LogoURL": "https://www.chacha-charging.com/userfiles/images/LOGO.jpg",
+      "TsAndCsURL": "https://www.chacha-charging.com/portfolio",
+      "BAN": "50965513"
+    },
+    {
+      "OperatorID": "85017137",
+      "OperatorName": {
+        "Zh_tw": "雲樁科技股份有限公司",
+        "En": "WinCharge"
+      },
+      "Telephone": "02-8751-1886",
+      "Address": "114台北市內湖區基湖路10巷1號5樓",
+      "WebURL": "https://wincharge.com.tw/",
+      "LogoURL": "https://wincharge.com.tw/",
+      "BAN": "85017137"
+    },
+    {
+      "OperatorID": "89132567",
+      "OperatorName": {
+        "Zh_tw": "連展電能科技股份有限公司",
+        "En": "Acon Electric Energy CO.LTD"
+      },
+      "Telephone": "02-29175598",
+      "Address": "新北市新店區寶興路45巷9弄2號",
+      "WebURL": "https://www.acon-eco.com",
+      "LogoURL": "https://ev-acon.lifeplus.tw/logo/languan.png",
+      "TsAndCsURL": "https://www.acon-eco.com",
+      "BAN": "89132567"
+    }
+  ]
+}

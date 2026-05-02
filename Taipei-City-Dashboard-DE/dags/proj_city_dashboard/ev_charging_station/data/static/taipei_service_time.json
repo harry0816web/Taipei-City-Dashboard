@@ -1,0 +1,4556 @@
+{
+  "UpdateTime": "2026-05-01T09:00:08+08:00",
+  "UpdateInterval": 14400,
+  "SrcUpdateTime": "2026-05-01T08:59:46+08:00",
+  "SrcUpdateInterval": 86400,
+  "AuthorityCode": "TPE",
+  "ServiceTimes": [
+    {
+      "StationID": "TPE1733",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0058",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0117",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0706",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1773",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0062",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0201U01",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0201U02",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0201U03",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0228U01",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0228U02",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0228U03",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0228U04",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0228U05",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0228U06",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0228U07",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0228U08",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0228U09",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0228U10",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0228U11",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0228U12",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0169",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0537",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0787",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0992",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "10:00",
+          "EndTime": "21:30"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0102",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0103",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0104",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0114",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0280",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0316",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0607",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "19:00",
+          "EndTime": "07:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0611",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0648",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0892",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1160",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0852",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1544",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1560",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1674",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0819",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1792",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1793",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0723",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0742",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0538",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0453",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0667",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 1,
+          "StartTime": "09:00",
+          "EndTime": "23:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0359",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0734",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0040",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0237",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0514",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0735",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0818",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 1,
+          "StartTime": "19:00",
+          "EndTime": "07:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1180",
+      "OpeningHours": [
+        {
+          "ServiceType": 3,
+          "DayType": 2,
+          "StartTime": "22:30",
+          "EndTime": "07:00"
+        },
+        {
+          "ServiceType": 3,
+          "DayType": 3,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1767",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1769",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1785",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1795",
+      "OpeningHours": [
+        {
+          "ServiceType": 3,
+          "DayType": 3,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        },
+        {
+          "ServiceType": 3,
+          "DayType": 2,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1807",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1809",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1820",
+      "OpeningHours": [
+        {
+          "ServiceType": 3,
+          "DayType": 2,
+          "StartTime": "18:30",
+          "EndTime": "06:30"
+        },
+        {
+          "ServiceType": 3,
+          "DayType": 3,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1861",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1864",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1868",
+      "OpeningHours": [
+        {
+          "ServiceType": 3,
+          "DayType": 2,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        },
+        {
+          "ServiceType": 3,
+          "DayType": 3,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1875",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1876",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1883",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1884",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1904",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1905",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1908",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1911",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1622",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0183",
+      "OpeningHours": [
+        {
+          "ServiceType": 3,
+          "DayType": 2,
+          "StartTime": "20:00",
+          "EndTime": "08:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0091",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0140",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0928",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0101",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 1,
+          "StartTime": "07:30",
+          "EndTime": "18:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0118",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0444",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0709",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0935",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1675",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0536",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0315",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0170",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0630",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0963",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1049",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0399",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0160",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1346",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0383",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0204",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0382",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0207",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0971",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1423",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0680",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1027",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0828",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0721",
+      "OpeningHours": [
+        {
+          "ServiceType": 3,
+          "DayType": 2,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        },
+        {
+          "ServiceType": 3,
+          "DayType": 3,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1562",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0231",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0402",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0156",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0122",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0725",
+      "OpeningHours": [
+        {
+          "ServiceType": 3,
+          "DayType": 3,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        },
+        {
+          "ServiceType": 3,
+          "DayType": 2,
+          "StartTime": "19:00",
+          "EndTime": "07:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1648",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0601",
+      "OpeningHours": [
+        {
+          "ServiceType": 3,
+          "DayType": 2,
+          "StartTime": "17:00",
+          "EndTime": "24:00"
+        },
+        {
+          "ServiceType": 3,
+          "DayType": 3,
+          "StartTime": "10:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0754",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 4,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1277",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1550",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1401",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0178",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0930",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0758",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0636",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 1,
+          "StartTime": "19:00",
+          "EndTime": "07:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0006",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1726",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0288",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0690",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1258",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0182",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0896",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0401",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1267",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0570",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0126",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0539",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0161",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0354",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1334",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1435",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0450",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0575",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1602",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0229",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0678",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0360",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0760",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1032",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1084",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1102",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1354",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "10:00",
+          "EndTime": "21:30"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0300",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0358",
+      "OpeningHours": [
+        {
+          "ServiceType": 3,
+          "DayType": 2,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        },
+        {
+          "ServiceType": 3,
+          "DayType": 3,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0407",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0752",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0751",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0843",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0722",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1056",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1108",
+      "OpeningHours": [
+        {
+          "ServiceType": 3,
+          "DayType": 4,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        },
+        {
+          "ServiceType": 3,
+          "DayType": 2,
+          "StartTime": "18:00",
+          "EndTime": "07:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0775",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0827",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1537",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0654",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1634",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0530",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 1,
+          "StartTime": "05:50",
+          "EndTime": "22:30"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0763",
+      "OpeningHours": [
+        {
+          "ServiceType": 3,
+          "DayType": 2,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0384",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0596",
+      "OpeningHours": [
+        {
+          "ServiceType": 3,
+          "DayType": 2,
+          "StartTime": "18:00",
+          "EndTime": "08:00"
+        },
+        {
+          "ServiceType": 3,
+          "DayType": 4,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0639",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0800",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0952",
+      "OpeningHours": [
+        {
+          "ServiceType": 3,
+          "DayType": 2,
+          "StartTime": "18:30",
+          "EndTime": "07:10"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1048",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1599",
+      "OpeningHours": [
+        {
+          "ServiceType": 3,
+          "DayType": 2,
+          "StartTime": "18:30",
+          "EndTime": "07:00"
+        },
+        {
+          "ServiceType": 3,
+          "DayType": 4,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0901",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0902",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0184",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 2,
+          "StartTime": "18:00",
+          "EndTime": "08:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1315",
+      "OpeningHours": [
+        {
+          "ServiceType": 3,
+          "DayType": 3,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        },
+        {
+          "ServiceType": 3,
+          "DayType": 2,
+          "StartTime": "07:00",
+          "EndTime": "19:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0348",
+      "OpeningHours": [
+        {
+          "ServiceType": 3,
+          "DayType": 2,
+          "StartTime": "05:00",
+          "EndTime": "22:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1399",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1400",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0959",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 3,
+          "StartTime": "00:00",
+          "EndTime": "12:59"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0724",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0215",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0279",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0381",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1388",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1604",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0824",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0239",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0425",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0330",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0441",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0099",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0109",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1206",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0389",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0100",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0110",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0120",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0176",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 1,
+          "StartTime": "08:00",
+          "EndTime": "20:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0977",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0015",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 2,
+          "StartTime": "07:00",
+          "EndTime": "20:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0014",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0123",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0534",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0606",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0447",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0493",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0997",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0738",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0154",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0446",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0220",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0646",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0251",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1323",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0007",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0134",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0665",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0666",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0762",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1142",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0529",
+      "OpeningHours": [
+        {
+          "ServiceType": 3,
+          "DayType": 2,
+          "StartTime": "06:00",
+          "EndTime": "22:00"
+        },
+        {
+          "ServiceType": 3,
+          "DayType": 3,
+          "StartTime": "06:00",
+          "EndTime": "22:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0871",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0047",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0011",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0247",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0125",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1150",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1128",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 2,
+          "StartTime": "09:00",
+          "EndTime": "17:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0535",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0615",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1227",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1476",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1585",
+      "OpeningHours": [
+        {
+          "ServiceType": 3,
+          "DayType": 3,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        },
+        {
+          "ServiceType": 3,
+          "DayType": 2,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1624",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0082",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0003",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0177",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0832",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0008",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0155",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0163",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0164",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1402",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1403",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0355",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0356",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0054",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0068",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0009",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 1,
+          "StartTime": "07:00",
+          "EndTime": "20:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0038",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0075",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0072",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0656",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0792",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0884",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0851",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1598",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1661",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0766",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0874",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1238",
+      "OpeningHours": [
+        {
+          "ServiceType": 3,
+          "DayType": 4,
+          "StartTime": "11:00",
+          "EndTime": "22:00"
+        },
+        {
+          "ServiceType": 3,
+          "DayType": 3,
+          "StartTime": "11:00",
+          "EndTime": "21:30"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1265",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1472",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1488",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0409",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0022",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0253",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 1,
+          "StartTime": "07:00",
+          "EndTime": "23:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0343",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1053",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1054",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1123",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1667",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 3,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0571",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1004",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0707",
+      "OpeningHours": [
+        {
+          "ServiceType": 3,
+          "DayType": 2,
+          "StartTime": "19:00",
+          "EndTime": "07:00"
+        },
+        {
+          "ServiceType": 3,
+          "DayType": 3,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0712",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0151",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0234",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0051",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1578",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0238",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1149",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1110",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0070",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0096",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1243",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0421",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0505",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0106",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0459",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0542",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 1,
+          "StartTime": "09:00",
+          "EndTime": "22:30"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0741",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0098",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0774",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0880",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1012",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0095",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1292",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1505",
+      "OpeningHours": [
+        {
+          "ServiceType": 3,
+          "DayType": 2,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        },
+        {
+          "ServiceType": 3,
+          "DayType": 3,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0127",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0129",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1593",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0135",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 1,
+          "StartTime": "09:00",
+          "EndTime": "22:30"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0255",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0449",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0086",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0645",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1011",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0066",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 1,
+          "StartTime": "06:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0067",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 1,
+          "StartTime": "06:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0069",
+      "OpeningHours": [
+        {
+          "ServiceType": 3,
+          "DayType": 3,
+          "StartTime": "11:00",
+          "EndTime": "21:30"
+        },
+        {
+          "ServiceType": 3,
+          "DayType": 2,
+          "StartTime": "11:00",
+          "EndTime": "21:30"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0116",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0313",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0716",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0468",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0502",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0715",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0593",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0092",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0702",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0305",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0318",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1099",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1195",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1715",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0311",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0812",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0065",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0139",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 3,
+          "StartTime": "08:00",
+          "EndTime": "22:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0270",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1081",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1650",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0944",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0097",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0206",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0726",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0591",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0610",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0479",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 2,
+          "StartTime": "09:00",
+          "EndTime": "17:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0121",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0128",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1589",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1336",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0739",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0840",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1148",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1411",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0153",
+      "OpeningHours": [
+        {
+          "ServiceType": 3,
+          "DayType": 3,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        },
+        {
+          "ServiceType": 3,
+          "DayType": 2,
+          "StartTime": "00:00",
+          "EndTime": "23:59"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1164",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0232",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0080",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0379",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 1,
+          "StartTime": "09:00",
+          "EndTime": "17:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1463",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1676",
+      "OpeningHours": [
+        {
+          "ServiceType": 2,
+          "DayType": 1,
+          "StartTime": "06:00",
+          "EndTime": "22:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0230",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0108",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0334",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0835",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0816",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0848",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0567",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0926",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1888",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE1916",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "TPE0976",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "33029464-STP6360001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "33029464-STP6410001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28371994-STP6510001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28371994-STP6910001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "33029464-STP6650001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "33029464-STP6750001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "33029464-STP6800001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "33029464-STP6810001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "33029464-STP6780001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "33029464-STP6770001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28371994-STP6520001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28371994-STP6540001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28371994-STP6550001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28371994-STP6560001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28371994-STP6580001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28371994-STP6590001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28371994-STP6600001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28371994-STP6610001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28371994-STP6620001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28371994-STP5490001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28371994-STP5500001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "33029464-STP6660001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28371994-STP3570001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28371994-STP5410001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "33029464-STP6720001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28371994-STP7600001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28371994-STP3930001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28371994-STP6530001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28371994-STP6900001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28371994-STP6570001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28371994-STP4180001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28371994-STP4170001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28371994-STP4340001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28371994-STP5850001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28371994-STP7430001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28371994-STP4900001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28371994-STP5990001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28371994-STP6000001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    },
+    {
+      "StationID": "28371994-STP6010001",
+      "OpeningHours": [
+        {
+          "ServiceType": 1,
+          "DayType": 1,
+          "StartTime": "00:00",
+          "EndTime": "24:00"
+        }
+      ]
+    }
+  ]
+}

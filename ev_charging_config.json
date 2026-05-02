@@ -1,0 +1,210 @@
+{
+  "_readme": "EV Charging Station Dashboard Components — Hackathon 2025 永續環境主題",
+  "_note": "把這份 config 匯入資料庫，把 API key 填入後端 DAG，前端即可渲染",
+
+  "components": [
+
+    // ─────────────────────────────────────────────────────────────────────────
+    // 組件一：充電站分布
+    // 圖表模式：EVStationChart（各行政區充電站數量長條圖）
+    // 地圖模式：MapLegend（圖例）+ Mapbox 點位圖層
+    // ─────────────────────────────────────────────────────────────────────────
+    {
+      "index": "ev_station_distribution",
+      "name": "台北市電動車充電站分布",
+      "source": "交通部 TDX 運輸資料流通服務",
+      "short_desc": "各行政區充電站數量與分布地圖",
+      "time_from": "static",
+      "time_to": "static",
+      "update_freq": 1,
+      "update_freq_unit": "day",
+
+      "chart_config": {
+        "color": [
+          "#4CAF93", "#5BB8A0", "#6DC1AC", "#7ECAB8",
+          "#90D3C5", "#A2DCD1", "#B4E5DE", "#C6EEEA",
+          "#D8F7F6", "#EAF9F8", "#C8E6C9", "#A5D6A7"
+        ],
+        "types": ["MapLegend", "EVStationChart"],
+        "unit": "站"
+      },
+
+      "map_config": [
+        {
+          "id": "ev-stations",
+          "type": "circle",
+          "source": "ev_stations_geojson",
+          "paint": {
+            "circle-radius": 6,
+            "circle-color": "#4CAF93",
+            "circle-stroke-color": "#ffffff",
+            "circle-stroke-width": 1.5,
+            "circle-opacity": 0.85
+          },
+          "property": "district",
+          "icon": "circle"
+        }
+      ],
+
+      "map_filter": {
+        "mode": "byParam",
+        "byParam": {
+          "xParam": "district"
+        }
+      },
+
+      "_api_note": "TDX API: GET /api/basic/v2/EV/Station?$filter=contains(Address,'臺北市')&$format=JSON",
+
+      "_chart_data_format": {
+        "description": "後端 DAG 將 TDX 資料轉換為以下格式，存入 DB 的 query_chart",
+        "example": [
+          {
+            "name": "充電站數量",
+            "data": [
+              { "x": "中正區", "y": 18, "total_guns": 42, "operators": "台電, 特斯拉" },
+              { "x": "大同區", "y": 9,  "total_guns": 20, "operators": "中油" },
+              { "x": "中山區", "y": 25, "total_guns": 60, "operators": "台電, 台灣大哥大" },
+              { "x": "松山區", "y": 14, "total_guns": 32, "operators": "台電" },
+              { "x": "大安區", "y": 22, "total_guns": 54, "operators": "台電, 特斯拉" },
+              { "x": "萬華區", "y": 11, "total_guns": 24, "operators": "中油" },
+              { "x": "信義區", "y": 19, "total_guns": 46, "operators": "台電, 特斯拉" },
+              { "x": "士林區", "y": 16, "total_guns": 38, "operators": "台電" },
+              { "x": "北投區", "y": 12, "total_guns": 28, "operators": "台電, 中油" },
+              { "x": "內湖區", "y": 21, "total_guns": 50, "operators": "台電, 台灣大哥大" },
+              { "x": "南港區", "y": 13, "total_guns": 30, "operators": "台電" },
+              { "x": "文山區", "y": 10, "total_guns": 22, "operators": "中油" }
+            ]
+          }
+        ]
+      },
+
+      "_geojson_format": {
+        "description": "地圖用 GeoJSON，放到 /public/mapData/ev_stations.geojson 或動態從後端回傳",
+        "example": {
+          "type": "FeatureCollection",
+          "features": [
+            {
+              "type": "Feature",
+              "geometry": { "type": "Point", "coordinates": [121.5199, 25.0478] },
+              "properties": {
+                "station_id": "TPE-001",
+                "name": "台北市政府充電站",
+                "address": "臺北市信義區市府路1號",
+                "district": "信義區",
+                "operator": "台電",
+                "total_guns": 6,
+                "available_guns": 4,
+                "charge_types": "AC/DC",
+                "rate": "NT$4/度"
+              }
+            }
+          ]
+        }
+      }
+    },
+
+    // ─────────────────────────────────────────────────────────────────────────
+    // 組件二：即時充電使用狀況
+    // 圖表模式：EVRealtimeChart（各區空閒率堆疊百分比）
+    // 地圖模式：MapLegend（綠/紅圖例）+ Mapbox 點位（顏色依即時狀態）
+    // ─────────────────────────────────────────────────────────────────────────
+    {
+      "index": "ev_station_realtime",
+      "name": "充電站即時使用狀況",
+      "source": "交通部 TDX 運輸資料流通服務",
+      "short_desc": "各行政區充電槍即時空閒與使用率",
+      "time_from": "current",
+      "time_to": "current",
+      "update_freq": 5,
+      "update_freq_unit": "minute",
+
+      "chart_config": {
+        "color": ["#4CAF93", "#E05C5C"],
+        "types": ["MapLegend", "EVRealtimeChart"],
+        "unit": "槍",
+        "categories": ["空閒", "使用中"]
+      },
+
+      "map_config": [
+        {
+          "id": "ev-stations-realtime",
+          "type": "circle",
+          "source": "ev_stations_realtime_geojson",
+          "paint": {
+            "circle-radius": 7,
+            "circle-color": [
+              "case",
+              [">", ["get", "available_guns"], 0], "#4CAF93",
+              "#E05C5C"
+            ],
+            "circle-stroke-color": "#ffffff",
+            "circle-stroke-width": 1.5
+          },
+          "property": "district",
+          "icon": "circle"
+        }
+      ],
+
+      "map_filter": {
+        "mode": "byParam",
+        "byParam": {
+          "xParam": "district"
+        }
+      },
+
+      "_api_note": "TDX API: GET /api/basic/v2/EV/ChargeStation?$format=JSON  (即時充電槍狀態)",
+
+      "_chart_data_format": {
+        "description": "後端 DAG 彙整每區空閒 vs 使用中槍數",
+        "example": [
+          {
+            "name": "空閒",
+            "data": [
+              { "x": "中正區", "y": 28 },
+              { "x": "大同區", "y": 15 },
+              { "x": "中山區", "y": 41 },
+              { "x": "松山區", "y": 20 },
+              { "x": "大安區", "y": 38 },
+              { "x": "萬華區", "y": 18 },
+              { "x": "信義區", "y": 32 },
+              { "x": "士林區", "y": 25 },
+              { "x": "北投區", "y": 19 },
+              { "x": "內湖區", "y": 36 },
+              { "x": "南港區", "y": 22 },
+              { "x": "文山區", "y": 14 }
+            ]
+          },
+          {
+            "name": "使用中",
+            "data": [
+              { "x": "中正區", "y": 14 },
+              { "x": "大同區", "y": 5 },
+              { "x": "中山區", "y": 19 },
+              { "x": "松山區", "y": 12 },
+              { "x": "大安區", "y": 16 },
+              { "x": "萬華區", "y": 6 },
+              { "x": "信義區", "y": 14 },
+              { "x": "士林區", "y": 13 },
+              { "x": "北投區", "y": 9 },
+              { "x": "內湖區", "y": 14 },
+              { "x": "南港區", "y": 8 },
+              { "x": "文山區", "y": 8 }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+
+  "_backend_dag_steps": {
+    "description": "後端 Airflow DAG 參考步驟（Taipei-City-Dashboard-DE）",
+    "steps": [
+      "1. 用 Client ID + Client Secret 向 TDX 取得 Access Token（有效期 24h，需快取）",
+      "2. GET /api/basic/v2/EV/Station 撈充電站清單，filter 台北市，存 PostgreSQL raw table",
+      "3. GET /api/basic/v2/EV/ChargeStation 撈即時狀態（5分鐘更新一次），存 raw table",
+      "4. SQL 彙整：GROUP BY district 計算站數、槍數、空閒/使用中",
+      "5. 將結果寫入 component 的 chart_data 欄位（格式見上方 _chart_data_format）",
+      "6. 同步更新地圖用 GeoJSON（可存 /public/mapData/ev_stations.geojson）"
+    ]
+  }
+}

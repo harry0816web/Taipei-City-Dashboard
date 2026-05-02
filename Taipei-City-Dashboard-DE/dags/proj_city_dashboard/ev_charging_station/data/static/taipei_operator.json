@@ -1,0 +1,933 @@
+{
+  "UpdateTime": "2026-05-01T09:00:08+08:00",
+  "UpdateInterval": 14400,
+  "SrcUpdateTime": "2026-05-01T08:59:45+08:00",
+  "SrcUpdateInterval": 86400,
+  "AuthorityCode": "TPE",
+  "Operators": [
+    {
+      "OperatorID": "29162550",
+      "OperatorName": {
+        "Zh_tw": "裕電能源股份有限公司"
+      },
+      "Telephone": "02-27026627",
+      "Address": "新北市新店區中興路3段3號2樓",
+      "WebURL": "https://www.findcompany.com.tw/",
+      "LogoURL": "https://www.findcompany.com.tw/logo.png",
+      "BAN": "29162550"
+    },
+    {
+      "OperatorID": "42861108",
+      "OperatorName": {
+        "Zh_tw": "台灣特斯拉汽車有限公司"
+      },
+      "Telephone": "0809-001766",
+      "Address": "臺北市內湖區民權東路6段11巷6號",
+      "WebURL": "https://www.tesla.com/zh_tw/",
+      "LogoURL": "https://blog.104.com.tw/wp-content/uploads/2023/04/25155725/tesla%EF%BC%8Dlogo.jpg",
+      "BAN": "42861108"
+    },
+    {
+      "OperatorID": "28007736",
+      "OperatorName": {
+        "Zh_tw": "皇鋒通訊股份有限公司"
+      },
+      "Telephone": "02-87516228",
+      "Address": "臺北市內湖區陽光街385號8樓",
+      "WebURL": "https://www.palcom-eshop.com.tw/",
+      "LogoURL": "https://www.palcom-eshop.com.tw/",
+      "BAN": "28007736"
+    },
+    {
+      "OperatorID": "85051710",
+      "OperatorName": {
+        "Zh_tw": "源點科技股份有限公司"
+      },
+      "Telephone": "06-6020889",
+      "Address": "臺南市歸仁區武東里高發二路360號",
+      "WebURL": "https://www.evoasis.com.tw",
+      "LogoURL": "https://www.evoasis.com.tw",
+      "BAN": "85051710"
+    },
+    {
+      "OperatorID": "90807408",
+      "OperatorName": {
+        "Zh_tw": "華城電能科技股份有限公司"
+      },
+      "Telephone": "02-23253320",
+      "Address": "臺北市南港區三重路66號12樓",
+      "WebURL": "https://www.fortune.com.tw/tw/index.aspx",
+      "LogoURL": "https://www.fortune.com.tw/tw/index.aspx",
+      "BAN": "90807408"
+    },
+    {
+      "OperatorID": "12981268",
+      "OperatorName": {
+        "Zh_tw": "亟泰工程技術顧問有限公司"
+      },
+      "Telephone": "02-85123488",
+      "Address": "新北市三重區興德路86號11樓",
+      "WebURL": "https://www.arch-world.com.tw/Company/24511.html",
+      "LogoURL": "https://www.arch-world.com.tw/Company/24511.html",
+      "BAN": "12981268"
+    },
+    {
+      "OperatorID": "33029464",
+      "OperatorName": {
+        "Zh_tw": "中興電工機械股份有限公司"
+      },
+      "Telephone": "(03) 328-4170",
+      "Address": "新北市中和區中正路801號3樓",
+      "WebURL": "https://www.chem.com.tw",
+      "LogoURL": "https://www.chem.com.tw",
+      "BAN": "33029464"
+    },
+    {
+      "OperatorID": "42477884",
+      "OperatorName": {
+        "Zh_tw": "舞動陽光股份有限公司成功營業所"
+      },
+      "Telephone": "(02) 2321-8222",
+      "Address": "臺北市中正區濟南路1段71號",
+      "WebURL": "https://wdygsports.com.tw",
+      "LogoURL": "https://wdygsports.com.tw",
+      "BAN": "42477884"
+    },
+    {
+      "OperatorID": "28371994",
+      "OperatorName": {
+        "Zh_tw": "寶盛國際股份有限公司"
+      },
+      "Telephone": "(03) 328-4170",
+      "Address": "臺北市南港區三重路19之5號2樓",
+      "WebURL": "https://bausen.com",
+      "LogoURL": "https://bausen.com",
+      "BAN": "28371994"
+    },
+    {
+      "OperatorID": "42311786",
+      "OperatorName": {
+        "Zh_tw": "舞動陽光有限公司內湖營業所"
+      },
+      "Telephone": "(02) 2630-6613",
+      "Address": "臺北市內湖區康寧路3段220號",
+      "WebURL": "https://wdygsports.com.tw",
+      "LogoURL": "https://wdygsports.com.tw",
+      "BAN": "42311786"
+    },
+    {
+      "OperatorID": "85111787",
+      "OperatorName": {
+        "Zh_tw": "合凌科技股份有限公司"
+      },
+      "Telephone": "(02) 7728-8587",
+      "Address": "臺北市中山區復興北路2號3樓之5",
+      "WebURL": "https://www.holin-tech.com/zh-TW/",
+      "LogoURL": "https://www.holin-tech.com/zh-TW/",
+      "BAN": "85111787"
+    },
+    {
+      "OperatorID": "52492792",
+      "OperatorName": {
+        "Zh_tw": "悠勢科技股份有限公司"
+      },
+      "Telephone": "02-77518097",
+      "Address": "臺北市中山區八德路二段232號9樓",
+      "WebURL": "https://uspace.city",
+      "LogoURL": "https://uspace.city",
+      "BAN": "52492792"
+    },
+    {
+      "OperatorID": "52883637",
+      "OperatorName": {
+        "Zh_tw": "思納捷科技股份有限公司"
+      },
+      "Telephone": "02-77134828#110",
+      "Address": "臺北市松山區民生東路4段133號10樓",
+      "WebURL": "https://incharger-intro.insynerger.com/",
+      "LogoURL": "https://incharger-intro.insynerger.com/",
+      "BAN": "52883637"
+    },
+    {
+      "OperatorID": "42649057",
+      "OperatorName": {
+        "Zh_tw": "岳鼎股份有限公司"
+      },
+      "Telephone": "02-8792-5281",
+      "Address": "臺北市內湖區舊宗路2段113號3樓",
+      "WebURL": "https://www.xmight.com/",
+      "LogoURL": "https://www.xmight.com/",
+      "BAN": "42649057"
+    },
+    {
+      "OperatorID": "53919205",
+      "OperatorName": {
+        "Zh_tw": "合創數位科技股份有限公司"
+      },
+      "Telephone": "02-22120070",
+      "Address": "臺北市信義區松德路161號24樓之1",
+      "WebURL": "https://www.aodigit.com/AoWeb/",
+      "LogoURL": "https://www.aodigit.com/AoWeb/",
+      "BAN": "53919205"
+    },
+    {
+      "OperatorID": "83578534",
+      "OperatorName": {
+        "Zh_tw": "鋐城科技股份有限公司"
+      },
+      "Telephone": "03-4396815",
+      "Address": "高雄市前鎮區成功二路25號3樓",
+      "WebURL": "https://www.chem.com.tw",
+      "LogoURL": "https://www.chem.com.tw",
+      "BAN": "83578534"
+    },
+    {
+      "OperatorID": "85012273",
+      "OperatorName": {
+        "Zh_tw": "舞動陽光股份有限公司大同分公司"
+      },
+      "Telephone": "(02) 2321-8222",
+      "Address": "臺北市大同區蓬萊里大龍街51號",
+      "WebURL": "https://wdygsports.com.tw",
+      "LogoURL": "https://wdygsports.com.tw",
+      "BAN": "85012273"
+    },
+    {
+      "OperatorID": "88237515",
+      "OperatorName": {
+        "Zh_tw": "日月亭股份有限公司百齡高中營業所"
+      },
+      "Telephone": "(02) 2883-6364",
+      "Address": "臺北市士林區承德路四段175號地下B2-B3停車場",
+      "WebURL": "https://www.youparking.com.tw/",
+      "LogoURL": "https://www.youparking.com.tw/",
+      "BAN": "88237515"
+    },
+    {
+      "OperatorID": "90505425",
+      "OperatorName": {
+        "Zh_tw": "特爾電力股份有限公司"
+      },
+      "Telephone": "07-2251500",
+      "Address": "高雄市苓雅區中正二路175號15樓之2",
+      "WebURL": "https://www.evtail.com.tw",
+      "LogoURL": "https://www.evtail.com.tw",
+      "BAN": "90505425"
+    },
+    {
+      "OperatorID": "93101587",
+      "OperatorName": {
+        "Zh_tw": "威炬實業有限公司春光公園地下停車場"
+      },
+      "Telephone": "(02) 7751-8899",
+      "Address": "臺北市信義區忠孝東路五段666號地下室",
+      "WebURL": "https://uspace.city",
+      "LogoURL": "https://uspace.city",
+      "BAN": "93101587"
+    },
+    {
+      "OperatorID": "28114216",
+      "OperatorName": {
+        "Zh_tw": "創玖科技股份有限公司"
+      },
+      "Telephone": "02-2212-2783",
+      "Address": "新北市新店區安德街160號",
+      "WebURL": "https://www.tronfuture.com/tw/",
+      "LogoURL": "https://www.tronfuture.com/tw/",
+      "BAN": "28114216"
+    },
+    {
+      "OperatorID": "80688966",
+      "OperatorName": {
+        "Zh_tw": "千斗開發有限公司"
+      },
+      "Telephone": "02-25023333",
+      "Address": "台北市中山區建國北路二段258巷27號1樓",
+      "WebURL": "https://www.twincn.com/item.aspx?no=80688966",
+      "LogoURL": "https://www.twincn.com/item.aspx?no=80688966",
+      "BAN": "80688966"
+    },
+    {
+      "OperatorID": "94175832",
+      "OperatorName": {
+        "Zh_tw": "台灣大動力服務股份有限公司"
+      },
+      "Telephone": "02-66386888 ",
+      "Address": "臺北市大安區敦化南路2段206號7樓",
+      "WebURL": "https://pma.gov.taipei/Default.aspx",
+      "LogoURL": "https://pma.gov.taipei/Default.aspx",
+      "BAN": "94175832"
+    },
+    {
+      "OperatorID": "73682707",
+      "OperatorName": {
+        "Zh_tw": "日月亭股份有限公司文昌國小營業所"
+      },
+      "Telephone": "02-2759-0666",
+      "Address": "臺北市士林區德華里文林路615巷20號",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "73682707"
+    },
+    {
+      "OperatorID": "80304384",
+      "OperatorName": {
+        "Zh_tw": "日月亭股份有限公司"
+      },
+      "Telephone": "02-27888750",
+      "Address": "台北市南港區忠孝東路6段66號",
+      "WebURL": "https://www.youparking.com.tw/",
+      "LogoURL": "https://www.youparking.com.tw/",
+      "BAN": "80304384"
+    },
+    {
+      "OperatorID": "00505188",
+      "OperatorName": {
+        "Zh_tw": "威瀧實業有限公司福星社會住宅地下停車場"
+      },
+      "Telephone": "",
+      "Address": "臺北市萬華區開封街2段37號地下1-4層",
+      "WebURL": "",
+      "LogoURL": "",
+      "BAN": "00505188"
+    },
+    {
+      "OperatorID": "25077906",
+      "OperatorName": {
+        "Zh_tw": "威瀧實業有限公司"
+      },
+      "Telephone": "02-29441489",
+      "Address": "台北市萬華區萬大路22號地下1至4層 ",
+      "WebURL": "https://pma.gov.taipei/Default.aspx",
+      "LogoURL": "https://pma.gov.taipei/Default.aspx",
+      "BAN": "25077906"
+    },
+    {
+      "OperatorID": "00997716",
+      "OperatorName": {
+        "Zh_tw": "臺北市萬華區公所"
+      },
+      "Telephone": "02-23064468",
+      "Address": "臺北市萬華區和平西路3段120號11樓",
+      "WebURL": "https://pma.gov.taipei/Default.aspx",
+      "LogoURL": "https://pma.gov.taipei/Default.aspx",
+      "BAN": "00997716"
+    },
+    {
+      "OperatorID": "00530953",
+      "OperatorName": {
+        "Zh_tw": "辰淵企業股份有限公司中南營運所"
+      },
+      "Telephone": "",
+      "Address": "臺北市南港區舊莊街1段3巷42號地下第一至地下第三層樓",
+      "WebURL": "",
+      "LogoURL": "",
+      "BAN": "00530953"
+    },
+    {
+      "OperatorID": "83058885",
+      "OperatorName": {
+        "Zh_tw": "拓鑫能源股份有限公司"
+      },
+      "Telephone": "02-2759-0666",
+      "Address": "桃園市八德區廣豐路81號",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "83058885"
+    },
+    {
+      "OperatorID": "00531117",
+      "OperatorName": {
+        "Zh_tw": "辰淵企業股份有限公司瑞光營運所"
+      },
+      "Telephone": "",
+      "Address": "臺北市內湖區瑞光路160號地下第一至地下第四層樓",
+      "WebURL": "",
+      "LogoURL": "",
+      "BAN": "00531117"
+    },
+    {
+      "OperatorID": "50965513",
+      "OperatorName": {
+        "Zh_tw": "承翊系統整合股份有限公司"
+      },
+      "Telephone": "02-87683696#307",
+      "Address": "桃園市桃園區大興路290巷33號12樓",
+      "WebURL": "https://www.chacha-charging.com/",
+      "LogoURL": "https://www.chacha-charging.com/",
+      "BAN": "50965513"
+    },
+    {
+      "OperatorID": "93158315",
+      "OperatorName": {
+        "Zh_tw": "俥亭停車事業股份有限公司"
+      },
+      "Telephone": "02-2788-8750",
+      "Address": "台北市南港區忠孝東路六段66號",
+      "WebURL": "https://pma.gov.taipei/Default.aspx",
+      "LogoURL": "https://pma.gov.taipei/Default.aspx",
+      "BAN": "93158315"
+    },
+    {
+      "OperatorID": "16777442",
+      "OperatorName": {
+        "Zh_tw": "大日開發有限公司"
+      },
+      "Telephone": "02-25023333",
+      "Address": "台北市中山區建國北路二段258巷27號1樓",
+      "WebURL": "https://pma.gov.taipei/Default.aspx",
+      "LogoURL": "https://pma.gov.taipei/Default.aspx",
+      "BAN": "16777442"
+    },
+    {
+      "OperatorID": "00531290",
+      "OperatorName": {
+        "Zh_tw": "辰淵企業股份有限公司新奇岩營運所"
+      },
+      "Telephone": "",
+      "Address": "臺北市北投區磺港路261號地下第一至地下第三層樓",
+      "WebURL": "",
+      "LogoURL": "",
+      "BAN": "00531290"
+    },
+    {
+      "OperatorID": "00570949",
+      "OperatorName": {
+        "Zh_tw": "山發物業股份有限公司興隆Ａ區社會住宅地下停車場"
+      },
+      "Telephone": "",
+      "Address": "臺北市文山區興隆路4段42巷1號地下1-3層",
+      "WebURL": "",
+      "LogoURL": "",
+      "BAN": "00570949"
+    },
+    {
+      "OperatorID": "00641938",
+      "OperatorName": {
+        "Zh_tw": "日月亭股份有限公司經貿社會住宅營業所"
+      },
+      "Telephone": "",
+      "Address": "臺北市南港區興東街28﹑30﹑32號B1-B3地下停車場",
+      "WebURL": "",
+      "LogoURL": "",
+      "BAN": "00641938"
+    },
+    {
+      "OperatorID": "12681939",
+      "OperatorName": {
+        "Zh_tw": "阜爾運通股份有限公司"
+      },
+      "Telephone": "",
+      "Address": "新北市土城區三民路2號7樓之8",
+      "WebURL": "",
+      "LogoURL": "",
+      "BAN": "12681939"
+    },
+    {
+      "OperatorID": "38632126",
+      "OperatorName": {
+        "Zh_tw": "辰淵企業股份有限公司西湖營運所"
+      },
+      "Telephone": "",
+      "Address": "臺北市內湖區麗山里內湖路一段387巷38號地下一層",
+      "WebURL": "",
+      "LogoURL": "",
+      "BAN": "38632126"
+    },
+    {
+      "OperatorID": "42549732",
+      "OperatorName": {
+        "Zh_tw": "辰淵企業股份有限公司麗湖營運所"
+      },
+      "Telephone": "",
+      "Address": "臺北市內湖區金湖里金湖路363巷8號B1",
+      "WebURL": "",
+      "LogoURL": "",
+      "BAN": "42549732"
+    },
+    {
+      "OperatorID": "93100784",
+      "OperatorName": {
+        "Zh_tw": "威瀧實業有限公司莒光社會住宅地下停車場"
+      },
+      "Telephone": "02-2759-0666",
+      "Address": "臺北市萬華區萬大路22﹑26﹑28號地下1-4層",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "93100784"
+    },
+    {
+      "OperatorID": "01176272",
+      "OperatorName": {
+        "Zh_tw": "台北農產運銷股份有限公司台北市第二果菜批發市場"
+      },
+      "Telephone": "02-2759-0666",
+      "Address": "臺北市中山區行孝里民族東路336號",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "01176272"
+    },
+    {
+      "OperatorID": "73981000",
+      "OperatorName": {
+        "Zh_tw": "財團法人台北市客家文化基金會"
+      },
+      "Telephone": "02-2759-0666",
+      "Address": "臺北市中正區林興里汀州路3段2號",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "73981000"
+    },
+    {
+      "OperatorID": "76888870",
+      "OperatorName": {
+        "Zh_tw": "威瀧實業有限公司景勤二號公園地下停車場"
+      },
+      "Telephone": "",
+      "Address": "臺北市信義區嘉興里信安街49號",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "76888870"
+    },
+    {
+      "OperatorID": "53953738",
+      "OperatorName": {
+        "Zh_tw": "驛林交通股份有限公司"
+      },
+      "Telephone": "",
+      "Address": "臺北市大安區羅斯福路3段309號2樓之8",
+      "WebURL": "",
+      "LogoURL": "",
+      "BAN": "53953738"
+    },
+    {
+      "OperatorID": "75962400",
+      "OperatorName": {
+        "Zh_tw": "辰淵企業股份有限公司西康營運所"
+      },
+      "Telephone": "",
+      "Address": "臺北市內湖區西康里內湖路1段203巷25號B1",
+      "WebURL": "",
+      "LogoURL": "",
+      "BAN": "75962400"
+    },
+    {
+      "OperatorID": "76303216",
+      "OperatorName": {
+        "Zh_tw": "台灣國際開發事業有限公司萬芳停車場"
+      },
+      "Telephone": "",
+      "Address": "臺北市文山區興光里興隆路三段111號地下二﹑三樓",
+      "WebURL": "",
+      "LogoURL": "",
+      "BAN": "76303216"
+    },
+    {
+      "OperatorID": "76349698",
+      "OperatorName": {
+        "Zh_tw": "辰淵企業股份有限公司花木營運所"
+      },
+      "Telephone": "",
+      "Address": "臺北市文山區萬盛里興隆路一段15號地下室",
+      "WebURL": "",
+      "LogoURL": "",
+      "BAN": "76349698"
+    },
+    {
+      "OperatorID": "76877888",
+      "OperatorName": {
+        "Zh_tw": "辰淵企業股份有限公司雅祥營運所"
+      },
+      "Telephone": "",
+      "Address": "臺北市信義區雅祥里松隆路123巷7號B1-B3",
+      "WebURL": "",
+      "LogoURL": "",
+      "BAN": "76877888"
+    },
+    {
+      "OperatorID": "80682490",
+      "OperatorName": {
+        "Zh_tw": "歐特儀股份有限公司"
+      },
+      "Telephone": "",
+      "Address": "臺北市中正區仁愛路2段99號5樓",
+      "WebURL": "",
+      "LogoURL": "",
+      "BAN": "80682490"
+    },
+    {
+      "OperatorID": "88109737",
+      "OperatorName": {
+        "Zh_tw": "辰淵企業股份有限公司大湖營運所"
+      },
+      "Telephone": "",
+      "Address": "臺北市內湖區秀湖里成功路五段7號地下一層",
+      "WebURL": "",
+      "LogoURL": "",
+      "BAN": "88109737"
+    },
+    {
+      "OperatorID": "88339626",
+      "OperatorName": {
+        "Zh_tw": "舞動陽光有限公司師大附中營業所"
+      },
+      "Telephone": "",
+      "Address": "臺北市大安區和安里信義路3段143號",
+      "WebURL": "",
+      "LogoURL": "",
+      "BAN": "88339626"
+    },
+    {
+      "OperatorID": "88397998",
+      "OperatorName": {
+        "Zh_tw": "辰淵企業股份有限公司景華營運所"
+      },
+      "Telephone": "",
+      "Address": "臺北市文山區景華街55號地下1樓",
+      "WebURL": "",
+      "LogoURL": "",
+      "BAN": "88397998"
+    },
+    {
+      "OperatorID": "28652185",
+      "OperatorName": {
+        "Zh_tw": "正好停股份有限公司"
+      },
+      "Telephone": "02-2759-0666",
+      "Address": "臺北市內湖區內湖路1段246號3樓",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "28652185"
+    },
+    {
+      "OperatorID": "88313479",
+      "OperatorName": {
+        "Zh_tw": "辰淵企業股份有限公司新糖廊營運所"
+      },
+      "Telephone": "02-8919-3669",
+      "Address": "臺北市萬華區大理街160巷2號",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "88313479"
+    },
+    {
+      "OperatorID": "26262936",
+      "OperatorName": {
+        "Zh_tw": "舞動陽光有限公司南港營業所"
+      },
+      "Telephone": "02-2782-5000.",
+      "Address": "台北市南港區東新街108巷23號",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "26262936"
+    },
+    {
+      "OperatorID": "00654927",
+      "OperatorName": {
+        "Zh_tw": "助安企業股份有限公司舊宗社會住宅地下停車場"
+      },
+      "Telephone": "02-2754-6661",
+      "Address": "台北市內湖區舊宗路1段185號B1",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "00654927"
+    },
+    {
+      "OperatorID": "00655051",
+      "OperatorName": {
+        "Zh_tw": "助安企業股份有限公司大龍峒社會住宅地下停車場"
+      },
+      "Telephone": "02-2586-2740",
+      "Address": "臺北市大同區承德路三段212號",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "00655051"
+    },
+    {
+      "OperatorID": "03751032",
+      "OperatorName": {
+        "Zh_tw": "臺北市立天文科學教育館"
+      },
+      "Telephone": "02-2831-4551",
+      "Address": "臺北市士林區基河路363號",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "03751032"
+    },
+    {
+      "OperatorID": "00601133",
+      "OperatorName": {
+        "Zh_tw": "俥亭停車事業股份有限公司環南市場營業所"
+      },
+      "Telephone": "02-2759-0666",
+      "Address": "臺北市信義區松德路300號5樓",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "00601133"
+    },
+    {
+      "OperatorID": "90482725",
+      "OperatorName": {
+        "Zh_tw": "立鉑國際股份有限公司"
+      },
+      "Telephone": "02-2759-0666",
+      "Address": "新竹縣竹北市中興里復興三路二段168號六樓之１",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "90482725"
+    },
+    {
+      "OperatorID": "80158495",
+      "OperatorName": {
+        "Zh_tw": "應安有限公司"
+      },
+      "Telephone": "02-2759-0666",
+      "Address": "臺北市大安區光復南路102號11樓",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "80158495"
+    },
+    {
+      "OperatorID": "97329493",
+      "OperatorName": {
+        "Zh_tw": "助安企業股份有限公司"
+      },
+      "Telephone": "02-2759-0666",
+      "Address": "臺北市大安區光復南路102號11樓",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "97329493"
+    },
+    {
+      "OperatorID": "93111038",
+      "OperatorName": {
+        "Zh_tw": "智合創投股份有限公司"
+      },
+      "Telephone": "02-2759-0666",
+      "Address": "臺北市信義區松德路300號5樓",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "93111038"
+    },
+    {
+      "OperatorID": "93111044",
+      "OperatorName": {
+        "Zh_tw": "助安企業有限公司辛亥高架橋下停車場"
+      },
+      "Telephone": "02-2759-0666",
+      "Address": "臺北市信義區松德路300號5樓",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "93111044"
+    },
+    {
+      "OperatorID": "88390637",
+      "OperatorName": {
+        "Zh_tw": "助安企業股份有限公司木柵社會住宅地下停車場"
+      },
+      "Telephone": "02-2759-0666",
+      "Address": "臺北市信義區松德路300號5樓",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "88390637"
+    },
+    {
+      "OperatorID": "52693448",
+      "OperatorName": {
+        "Zh_tw": "遠創智慧股份有限公司"
+      },
+      "Telephone": "02-2759-0666",
+      "Address": "新北市板橋區新站路16號15樓",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "52693448"
+    },
+    {
+      "OperatorID": "94128120",
+      "OperatorName": {
+        "Zh_tw": "達拉電能股份有限公司"
+      },
+      "Telephone": "02-2759-0666",
+      "Address": "臺北市大安區敦化南路2段65號9樓",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "94128120"
+    },
+    {
+      "OperatorID": "00655165",
+      "OperatorName": {
+        "Zh_tw": "助安企業股份有限公司永平社會住宅地下停車場"
+      },
+      "Telephone": "02-2759-0666",
+      "Address": "臺北市信義區松德路300號5樓",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "00655165"
+    },
+    {
+      "OperatorID": "89132567",
+      "OperatorName": {
+        "Zh_tw": "連展電能科技股份有限公司"
+      },
+      "Telephone": "02-2759-0666",
+      "Address": "新北市新店區寶興路45巷9弄2號3樓",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "89132567"
+    },
+    {
+      "OperatorID": "93519232",
+      "OperatorName": {
+        "Zh_tw": "區快充科技股份有限公司"
+      },
+      "Telephone": "02-2759-0666",
+      "Address": "新竹市東區民權路110號7樓",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "93519232"
+    },
+    {
+      "OperatorID": "53703514",
+      "OperatorName": {
+        "Zh_tw": "裕電俥電股份有限公司"
+      },
+      "Telephone": "02-2759-0666",
+      "Address": "新北市新店區中興路3段3號2樓",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "53703514"
+    },
+    {
+      "OperatorID": "97179430",
+      "OperatorName": {
+        "Zh_tw": "遠傳電信股份有限公司"
+      },
+      "Telephone": "02-2759-0666",
+      "Address": "臺北市內湖區瑞光路468號5樓",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "97179430"
+    },
+    {
+      "OperatorID": "22957668",
+      "OperatorName": {
+        "Zh_tw": "台北花卉產銷股份有限公司"
+      },
+      "Telephone": "02-2759-0666",
+      "Address": "臺北市內湖區新湖三路28及36號",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "22957668"
+    },
+    {
+      "OperatorID": "88324010",
+      "OperatorName": {
+        "Zh_tw": "安企業有限公司水源市場停車場"
+      },
+      "Telephone": "02-2759-0666",
+      "Address": "臺北市中正區水源里羅斯福路4段92號地下一至二層",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "88324010"
+    },
+    {
+      "OperatorID": "93161281",
+      "OperatorName": {
+        "Zh_tw": "助安企業有限公司興岩地下停車場"
+      },
+      "Telephone": "02-2759-0666",
+      "Address": " 臺北市文山區興隆路2段90號 ",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "93161281"
+    },
+    {
+      "OperatorID": "08612854",
+      "OperatorName": {
+        "Zh_tw": "臺北市內湖區新湖國民小學"
+      },
+      "Telephone": "02-2759-0666",
+      "Address": "臺北市內湖區湖興里民權東路6段138號 ",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "08612854"
+    },
+    {
+      "OperatorID": "88260607",
+      "OperatorName": {
+        "Zh_tw": " 日月亭股份有限公司南港東明乙營業所"
+      },
+      "Telephone": "02-2759-0666",
+      "Address": "臺北市南港區南港路二段38巷6號(含1-之3)及60巷13號B1-B4停車場",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "88260607"
+    },
+    {
+      "OperatorID": "42441649",
+      "OperatorName": {
+        "Zh_tw": "日月亭股份有限公司兒童新樂園營業所"
+      },
+      "Telephone": "02-2759-0666",
+      "Address": "臺北市士林區福佳里承德路5段55號",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "42441649"
+    },
+    {
+      "OperatorID": "88395963",
+      "OperatorName": {
+        "Zh_tw": "宜舍企業股份有限公司北投稻香營業所"
+      },
+      "Telephone": "02-2759-0666",
+      "Address": "臺北市北投區稻香路81號B1-B3地下停車場",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "88395963"
+    },
+    {
+      "OperatorID": "88258237",
+      "OperatorName": {
+        "Zh_tw": "日月亭股份有限公司臺北田徑地下停車場營業所"
+      },
+      "Telephone": "02-2759-0666",
+      "Address": "臺北市松山區敦化北路3號停車場",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "88258237"
+    },
+    {
+      "OperatorID": "88177523",
+      "OperatorName": {
+        "Zh_tw": "俥亭停車事業股份有限公司臺北市立大學營業所"
+      },
+      "Telephone": "02-2759-0666",
+      "Address": "臺北市士林區忠誠路2段101號停車場",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "88177523"
+    },
+    {
+      "OperatorID": "88260590",
+      "OperatorName": {
+        "Zh_tw": "日月亭股份有限公司南港東明甲營業所"
+      },
+      "Telephone": "02-2759-0666",
+      "Address": "臺北市南港區南港路二段60巷12.16.18號B1-B3停車場",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "88260590"
+    },
+    {
+      "OperatorID": "88258243",
+      "OperatorName": {
+        "Zh_tw": "日月亭股份有限公司臺北體育館營業所"
+      },
+      "Telephone": "02-2759-0666",
+      "Address": "臺北市松山區南京東路4段10號B1及B2停車場",
+      "WebURL": "https://pma.gov.taipei/",
+      "LogoURL": "https://pma.gov.taipei/",
+      "BAN": "88258243"
+    }
+  ]
+}
