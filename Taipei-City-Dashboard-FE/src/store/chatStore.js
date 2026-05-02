@@ -141,7 +141,7 @@ export const useChatStore = defineStore('chat', () => {
 				session: "",
 				stream: false,
 				messages: [
-					{ role: 'user', content: `你是能源補助顧問，請只回答補助相關問題，答案要簡短、直接、繁體中文。
+					{ role: 'user', content: `你是能源補助顧問，請只回答補助相關問題，答案要**簡短精煉**、**使用繁體中文**。
 
 使用者問題：${newChatData.content}
 

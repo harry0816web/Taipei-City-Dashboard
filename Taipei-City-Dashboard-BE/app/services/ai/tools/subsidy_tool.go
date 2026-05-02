@@ -14,9 +14,14 @@ type SubsidyArgs struct {
 }
 
 func RetrieveSubsidies(ctx context.Context, args string, db *gorm.DB) (string, error) {
+    var params SubsidyArgs
+    if err := parseArgs(args, &params); err != nil {
+        return "", fmt.Errorf("invalid arguments: %v", err)
+    }
+
     var docs []models.SubsidyKB
     
-    db.Where("content LIKE ?", "%"+args+"%").
+    db.Where("content LIKE ?", "%"+params.Query+"%").
         Limit(3).
         Find(&docs)
 
