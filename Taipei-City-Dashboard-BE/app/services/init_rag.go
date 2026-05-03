@@ -16,7 +16,10 @@ func InitSubsidyKB(db *gorm.DB) error {
         return err
     }
 
-    // 2. 读取文本
+    // 2. 清空舊資料 (每次重啟都重新載入最新 txt 內容)
+    db.Session(&gorm.Session{AllowGlobalUpdate: true}).Delete(&models.SubsidyKB{})
+
+    // 3. 读取文本
     filePath := filepath.Join("data", "subsidy", "subsidy.txt")
     text, err := ReadSubsidyText(filePath)
     if err != nil {
